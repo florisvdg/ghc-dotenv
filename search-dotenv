@@ -21,7 +21,7 @@ for url in $(curl -H "Accept: application/vnd.github+json" -H "Authorization: Be
   fi
 
   # Filter out the Laravel template, which could otherwise skew the results
-  if echo "$contents" | grep -q "APP_NAME="; then
+  if echo "$contents" | grep -q "APP_DEBUG="; then
     echo "Skipping entry: likely from Laravel template"
     continue
   fi
