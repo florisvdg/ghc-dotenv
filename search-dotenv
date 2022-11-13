@@ -1,7 +1,7 @@
 #!/bin/bash
 mkdir -p "data"
 
-for url in $(curl -H "Accept: application/vnd.github+json" -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/search/code?q=key%20filename:.env%20language:shell&per_page=100" | jq -r '.items | .[] | .html_url'); do
+for url in $(curl -H "Accept: application/vnd.github+json" -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/search/code?q=key%20filename:.env%20language:shell&per_page=100&sort=indexed" | jq -r '.items | .[] | .html_url'); do
   content_url="$(echo $url | sed -e 's|https://github.com|https://raw.githubusercontent.com|g' -e 's|/blob/|/|g')"
   echo "$content_url"
 
