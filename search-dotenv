@@ -4,13 +4,14 @@ mkdir -p "data"
 for url in $(curl -H "Accept: application/vnd.github+json" -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/search/code?q=key%20filename:.env%20language:shell&per_page=100" | jq -r '.items | .[] | .html_url'); do
   content_url="$(echo $url | sed -e 's|https://github.com|https://raw.githubusercontent.com|g' -e 's|/blob/|/|g')"
   echo "$content_url"
-  
+
   # Filter out shell scripts
   if [[ "$content_url" == *sh ]]; then
     echo "Skipping entry: not a .env file"
     continue
   fi
 
+  filename="$(echo "$url" | sed -e 's|https://github.com/||g' -e 's|/blob/[a-z0-9]*/|/|g' | sha256sum | head -c 64)"
   contents="$(curl -sSL "$content_url")"
 
   # Filter out shell scripts
@@ -25,7 +26,6 @@ for url in $(curl -H "Accept: application/vnd.github+json" -H "Authorization: Be
     continue
   fi
 
-  filename="$(echo "$contents" | sha256sum | head -c 64)"
   echo "$filename..."
 
   result="$(echo "$contents" | grep "=" | awk -F'=' '{print $1}' | sed 's/export //g' | sed 's/ $//g' | grep -e "^[A-z0-9_]*$" | sort -u)"
