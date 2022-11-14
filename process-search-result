@@ -10,7 +10,6 @@ if [[ "$content_url" == *sh ]]; then
   exit 0
 fi
 
-filename="$(echo "$url" | sed -e 's|https://github.com/||g' -e 's|/blob/[a-z0-9]*/|/|g' | sha256sum | head -c 64)"
 contents="$(curl -sSL "$content_url")"
 
 # Filter out shell scripts
@@ -25,9 +24,10 @@ if echo "$contents" | grep -q -e "APP_DEBUG=" -e "EXAMPLE_INFURA_KEY="; then
   exit 0
 fi
 
+result="$(echo "$contents" | grep "=" | awk -F'=' '{print $1}' | sed 's/export //g' | sed 's/ $//g' | grep -e "^[A-z0-9_]*$" | sort -u)"
+filename="$(echo "$result" | sha256sum | head -c 64)"
 echo "$filename..."
 
-result="$(echo "$contents" | grep "=" | awk -F'=' '{print $1}' | sed 's/export //g' | sed 's/ $//g' | grep -e "^[A-z0-9_]*$" | sort -u)"
 if [ -n "$result" ]; then
   echo "$result" > "data/$filename"
 fi
