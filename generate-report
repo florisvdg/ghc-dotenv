@@ -3,6 +3,6 @@ echo "envvar,count" > report.csv
 all_vars="$(cat data/* | sort -u)"
 
 for envvar in $all_vars; do
-  count=$(grep -r "$envvar" data/* | wc -l | sed 's/^ *//g')
+  count=$(grep -r "^$envvar$" data/* | wc -l | sed 's/^ *//g')
   echo "$envvar,$count" >> report.csv
 done
