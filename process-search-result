@@ -1,0 +1,33 @@
+#!/bin/bash
+
+url="$1"
+content_url="$(echo $url | sed -e 's|https://github.com|https://raw.githubusercontent.com|g' -e 's|/blob/|/|g')"
+echo "$content_url"
+
+# Filter out shell scripts
+if [[ "$content_url" == *sh ]]; then
+  echo "Skipping entry: not a .env file"
+  exit 0
+fi
+
+filename="$(echo "$url" | sed -e 's|https://github.com/||g' -e 's|/blob/[a-z0-9]*/|/|g' | sha256sum | head -c 64)"
+contents="$(curl -sSL "$content_url")"
+
+# Filter out shell scripts
+if echo "$contents" | head -n 1 | grep -q "#!/"; then
+  echo "Skipping entry: not a .env file"
+  exit 0
+fi
+
+# Filter out the Laravel template, which could otherwise skew the results
+if echo "$contents" | grep -q "APP_DEBUG="; then
+  echo "Skipping entry: likely from Laravel template"
+  exit 0
+fi
+
+echo "$filename..."
+
+result="$(echo "$contents" | grep "=" | awk -F'=' '{print $1}' | sed 's/export //g' | sed 's/ $//g' | grep -e "^[A-z0-9_]*$" | sort -u)"
+if [ -n "$result" ]; then
+  echo "$result" > "data/$filename"
+fi
