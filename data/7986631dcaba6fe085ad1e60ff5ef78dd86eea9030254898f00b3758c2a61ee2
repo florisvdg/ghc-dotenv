@@ -1,0 +1,13 @@
+DATABASE_URL
+DISCORD_CLIENT_ID
+DISCORD_CLIENT_SECRET
+Firestore_ApiKey
+Firestore_AppId
+Firestore_AuthDomain
+Firestore_MeasurementId
+Firestore_MessagingSenderId
+Firestore_ProjectId
+Firestore_StorageBucket
+NEXTAUTH_SECRET
+NEXTAUTH_URL
+NEXT_PUBLIC_API_KEY
