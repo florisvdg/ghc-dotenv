@@ -20,8 +20,8 @@ if echo "$contents" | head -n 1 | grep -q "#!/"; then
 fi
 
 # Filter out the Laravel template, which could otherwise skew the results
-if echo "$contents" | grep -q "APP_DEBUG="; then
-  echo "Skipping entry: likely from Laravel template"
+if echo "$contents" | grep -q -e "APP_DEBUG=" -e "EXAMPLE_INFURA_KEY="; then
+  echo "Skipping entry: likely from a template"
   exit 0
 fi
 
