@@ -1,0 +1,5 @@
+PATH
+PERL5LIB
+TEXINFO_UNINSTALLED
+abs_top_builddir
+abs_top_srcdir
