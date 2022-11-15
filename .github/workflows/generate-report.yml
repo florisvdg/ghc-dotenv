@@ -9,13 +9,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 4
     steps:
-      - name: Checkout
+      - name: Checkout scripts
+        uses: actions/checkout@v3
+
+      - name: Move bin
+        run: mv ./bin/* /usr/local/bin/
+
+      - name: Checkout data
         uses: actions/checkout@v3
         with:
           ref: data
 
       - name: Generate report
-        run: ./generate-report
+        run: |
+          generate-report dotenv
+          generate-report actions
 
       - name: Commit result
         env:
@@ -24,6 +32,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [[ $(git status --porcelain $FILE) ]]; then
+            git pull
             git add $FILE
             git commit -m "Generate report"
             git push
