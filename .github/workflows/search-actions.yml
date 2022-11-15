@@ -1,0 +1,39 @@
+name: Search Actions YAML
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10/15 * * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Move bin
+        run: mv ./bin/* /usr/local/bin/
+
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: data
+
+      - name: Run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: actions-search
+
+      - name: Commit result
+        env:
+          DIR: data
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ $(git status --porcelain $DIR) ]]; then
+            git pull
+            git add $DIR
+            git commit -m "Add Actions YAML search results"
+            git push
+          fi

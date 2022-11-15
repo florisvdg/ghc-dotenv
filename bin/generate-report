@@ -1,0 +1,14 @@
+#!/bin/bash
+if [ $# -ne 1 ]; then
+  echo "Usage: $(basename $0) <dotenv|actions>"
+  exit 2
+fi
+
+dir=$1
+echo "envvar,count" > reports/$type.csv
+all_vars="$(cat data/$type/* | sort -u)"
+
+for envvar in $all_vars; do
+  count=$(grep -r "^$envvar$" data/$type/* | wc -l | sed 's/^ *//g')
+  echo "$envvar,$count" >> reports/$type.csv
+done
