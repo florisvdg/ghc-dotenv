@@ -4,7 +4,7 @@ if [ $# -ne 1 ]; then
   exit 2
 fi
 
-dir=$1
+type=$1
 echo "envvar,count" > reports/$type.csv
 all_vars="$(cat data/$type/* | sort -u)"
 
