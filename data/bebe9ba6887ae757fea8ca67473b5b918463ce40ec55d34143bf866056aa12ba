@@ -1,0 +1,8 @@
+NTHSTACK
+OMP_STACKSIZE
+job
+jobid
+launcher
+mpmd_opt
+npe_node_max
+step
