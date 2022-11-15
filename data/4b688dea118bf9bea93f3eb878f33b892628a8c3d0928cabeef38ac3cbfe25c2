@@ -1,0 +1,12 @@
+appClientId
+cache_method
+cognitoOauthUrl
+maxSessionDays
+mds_database
+mds_host
+mds_password
+mds_user
+region
+sessionName
+sessionSecret
+userpoolId
