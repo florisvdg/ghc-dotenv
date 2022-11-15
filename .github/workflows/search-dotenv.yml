@@ -1,4 +1,4 @@
-name: Run
+name: Search Dotenv
 on:
   workflow_dispatch:
   schedule:
@@ -9,7 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
-      - name: Checkout
+      - name: Checkout scripts
+        uses: actions/checkout@v3
+
+      - name: Move bin
+        run: mv ./bin/* /usr/local/bin/
+
+      - name: Checkout data
         uses: actions/checkout@v3
         with:
           ref: data
@@ -17,7 +23,7 @@ jobs:
       - name: Run
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./search-dotenv
+        run: dotenv-search
 
       - name: Commit result
         env:
@@ -26,6 +32,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [[ $(git status --porcelain $DIR) ]]; then
+            git pull
             git add $DIR
             git commit -m "Add search results"
             git push
