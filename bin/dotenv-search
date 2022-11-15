@@ -1,0 +1,8 @@
+#!/bin/bash
+mkdir -p "data/dotenv"
+
+src_dir="$(dirname "${BASH_SOURCE[0]}")"
+
+for url in $(curl -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/search/code?q=filename:.env%20language:shell&per_page=100&sort=indexed" | jq -r '.items | .[] | .html_url'); do
+  "$src_dir"/dotenv-process-result "$url"
+done
