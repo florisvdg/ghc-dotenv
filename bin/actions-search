@@ -1,8 +1,0 @@
-#!/bin/bash
-mkdir -p "data/actions"
-
-src_dir="$(dirname "${BASH_SOURCE[0]}")"
-
-for url in $(curl -H "Authorization: Bearer $GITHUB_TOKEN" "https://api.github.com/search/code?q=path:.github/workflows%20secrets%20-GITHUB_TOKEN%20language:yaml&per_page=100&sort=indexed" | jq -r '.items | .[] | .html_url'); do
-  "$src_dir"/actions-process-result "$url"
-done
