@@ -27,13 +27,13 @@ jobs:
 
       - name: Commit result
         env:
-          FILE: report.csv
+          DIR: reports
         run: |
           git config user.name "GitHub Actions"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [[ $(git status --porcelain $FILE) ]]; then
+          if [[ $(git status --porcelain $DIR) ]]; then
             git pull
-            git add $FILE
+            git add $DIR
             git commit -m "Generate report"
             git push
           fi
