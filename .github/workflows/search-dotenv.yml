@@ -34,6 +34,6 @@ jobs:
           if [[ $(git status --porcelain $DIR) ]]; then
             git pull
             git add $DIR
-            git commit -m "Add search results"
+            git commit -m "Add Dotenv search results"
             git push
           fi
