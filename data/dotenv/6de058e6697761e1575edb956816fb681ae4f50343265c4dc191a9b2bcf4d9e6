@@ -1,0 +1,10 @@
+NODE_ENV
+PORT
+dev_access_database
+dev_access_key_id
+dev_access_key_user
+dev_access_secrety_key
+prod_access_database
+prod_access_key_id
+prod_access_key_user
+prod_access_secrety_key
