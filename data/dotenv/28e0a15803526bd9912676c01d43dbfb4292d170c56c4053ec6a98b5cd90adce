@@ -1,0 +1,5 @@
+JWT_SECRET_TOKEN
+dbHost
+dbName
+dbPassword
+dbUser
