@@ -1,0 +1,11 @@
+authorized_keys
+fallback_video_timeout
+hostname
+network_reboot_timeout
+password
+sites_txt
+smartboard_base_url
+sshd_port
+username
+video_cache_timeout
+wpa_supplicant_conf
