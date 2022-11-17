@@ -1,0 +1,11 @@
+OAuthClientID
+OAuthClientSecret
+OAuthRefreshToken
+apiAddress
+clientAddress
+countApiKey
+dbURL
+localAPI
+localServer
+secret
+serverAddress
