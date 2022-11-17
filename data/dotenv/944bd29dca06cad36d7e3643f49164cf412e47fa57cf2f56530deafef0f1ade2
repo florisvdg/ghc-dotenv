@@ -1,0 +1,11 @@
+BASE_URL
+JWT_SECRET
+NODE_MAILER_EMAIL
+NODE_MAILER_PASSWORD
+NODE_MAILER_SERVER
+apiKey
+appId
+authDomain
+messagingSenderId
+projectId
+storageBucket
