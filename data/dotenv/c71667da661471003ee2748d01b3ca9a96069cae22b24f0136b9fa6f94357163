@@ -1,0 +1,7 @@
+POSTGRES_DB
+POSTGRES_PASSWORD
+POSTGRES_URL
+POSTGRES_USER
+livescore_api_key
+livescore_api_secret
+livescore_api_url
