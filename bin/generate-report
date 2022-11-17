@@ -5,5 +5,10 @@ if [ $# -ne 1 ]; then
 fi
 
 type=$1
+
+mkdir -p reports
 echo "envvar,count" > reports/$type.csv
 cat data/$type/* | sort | uniq -c | awk '{ print $2","$1}' >> reports/$type.csv
+
+echo "envvar,count" > reports/$type-tokenized.csv
+cat reports/$type.csv | tail -n+2 | awk -F',' '{ print $1 }' | sed 's/REACT_APP_//g' | awk -F'_' '{ print $1" "$1"_"$2 }' | tr ' ' '\n' | grep -v "_$" | sort | uniq -c | sort -nr | awk '{ print $2","$1}' | grep -v ",1$" >> reports/$type-tokenized.csv
