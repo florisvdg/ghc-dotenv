@@ -22,9 +22,8 @@ jobs:
 
       - name: Generate report
         run: |
-          generate-report dotenv &
-          generate-report actions &
-          wait < <(jobs -p)
+          generate-report dotenv
+          generate-report actions
 
       - name: Commit result
         env:
