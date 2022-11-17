@@ -6,9 +6,4 @@ fi
 
 type=$1
 echo "envvar,count" > reports/$type.csv
-all_vars="$(cat data/$type/* | sort -u)"
-
-for envvar in $all_vars; do
-  count=$(grep -r "^$envvar$" data/$type/* | wc -l | sed 's/^ *//g')
-  echo "$envvar,$count" >> reports/$type.csv
-done
+cat data/$type/* | sort | uniq -c | awk '{ print $2","$1}' >> reports/$type.csv
