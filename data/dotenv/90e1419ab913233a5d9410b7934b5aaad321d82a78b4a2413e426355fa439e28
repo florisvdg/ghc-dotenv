@@ -1,0 +1,10 @@
+AppDomain
+AppName
+MongoServer
+NODE_ENV
+VITE_APP_CODE
+appDomain
+appName
+appPort
+dbName
+jwtSecret
