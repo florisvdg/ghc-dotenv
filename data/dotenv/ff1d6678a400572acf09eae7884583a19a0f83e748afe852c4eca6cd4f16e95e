@@ -1,0 +1,5 @@
+BackEndHost
+FrontEndHost
+JWT_SECRET
+LocalPort
+mongoURL
