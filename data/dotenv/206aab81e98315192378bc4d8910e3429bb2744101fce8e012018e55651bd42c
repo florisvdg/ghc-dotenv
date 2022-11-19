@@ -1,0 +1,5 @@
+discoverPort
+emitProcessMetrics
+localDiscoverPort
+metricsPort
+protocolPort
