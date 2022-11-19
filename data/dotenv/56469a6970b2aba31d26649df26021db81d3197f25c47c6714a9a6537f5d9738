@@ -1,0 +1,4 @@
+DB_CONNECTION
+SECRET_KEY
+clientPort
+serverPort
