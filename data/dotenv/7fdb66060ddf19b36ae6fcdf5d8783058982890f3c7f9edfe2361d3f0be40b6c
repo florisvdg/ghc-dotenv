@@ -1,0 +1,9 @@
+DB
+DBhost
+DBpassword
+DBport
+DBtable
+DBuser
+JWT_SECRET
+NODE_ENV
+PORT
