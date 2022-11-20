@@ -1,0 +1,6 @@
+API_AUDIENCE
+AUTH0_DOMAIN
+DATABASE_URL
+assistant_jwt
+director_jwt
+producer_jwt
