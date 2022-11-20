@@ -1,0 +1,8 @@
+LOGIN_SELENOID
+PASSWORD_SELENOID
+base_url
+browser_name
+email
+no_results
+password
+wrong_email
