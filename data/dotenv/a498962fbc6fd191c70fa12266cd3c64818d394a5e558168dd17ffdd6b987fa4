@@ -1,0 +1,12 @@
+DB
+HOST
+PASSWORD
+PORT
+USER
+acquire
+backoffBase
+backoffExponent
+idel
+match
+max
+min
