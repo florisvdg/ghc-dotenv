@@ -1,0 +1,12 @@
+JWT_AUDIENCE
+JWT_EXPIRES_IN
+JWT_ID
+JWT_ISSUER
+JWT_SECRET
+NEST_DEBUG
+db_database_name
+db_host_name
+db_password
+db_port
+db_type
+db_user_name
