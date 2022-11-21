@@ -1,0 +1,6 @@
+DB_database
+DB_host
+DB_password
+DB_port
+DB_username
+JWT_Sign_Key
