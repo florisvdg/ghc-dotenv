@@ -1,0 +1,16 @@
+from_email
+language
+max_private_projects
+max_public_projects
+node
+protocol
+public_register
+secret_key
+smtp_host
+smtp_password
+smtp_port
+smtp_ssl
+smtp_tls
+smtp_user
+taiga_sites_domain
+timezone
