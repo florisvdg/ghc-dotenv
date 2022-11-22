@@ -1,0 +1,12 @@
+DOCKER_REGISTRY
+DepartmentCode_BoardOfDirectorsCode
+DepartmentCode_BusinessDepartmentCode
+DepartmentCode_CustomerCareDepartmentCode
+DepartmentCode_ServiceProviderDepartmentCode
+DepartmentCode_SupporterDepartmentCode
+EXTERNAL_DNS_NAME_OR_IP
+FTTHServiceIds
+SQL_ACCOUNT
+SQL_PASSWORD
+TEMPORARY_UPLOAD_FOLDER
+TVServiceIds
