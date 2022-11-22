@@ -1,0 +1,7 @@
+AWS_DEFAULT_REGION
+AWS_PROFILE
+executor_execution_role
+executor_function_name
+executor_poll_freq
+executor_s3_bucket_name
+executor_timeout

@@ -1,0 +1,8 @@
+AWS_PROFILE
+executor_batch_execution_role_name
+executor_batch_job_definition_name
+executor_batch_job_log_group_name
+executor_batch_job_role_name
+executor_batch_queue
+executor_region
+executor_s3_bucket_name
