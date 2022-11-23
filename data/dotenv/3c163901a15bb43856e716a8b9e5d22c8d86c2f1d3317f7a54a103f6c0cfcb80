@@ -1,0 +1,15 @@
+NODE_ENV
+api_ws_url
+domain
+domain_use_ip_from_network
+jwt
+logpath
+nodered_id
+nodered_port
+nodered_sa
+noderedadmins
+noderedusers
+protocol
+saml_federation_metadata
+saml_issuer
+websocket_max_package_count
