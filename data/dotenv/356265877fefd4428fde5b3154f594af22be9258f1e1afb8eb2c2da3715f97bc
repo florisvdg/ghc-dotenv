@@ -1,0 +1,6 @@
+BASEURL
+email
+jwtSecret
+mongoURI
+pass
+service
