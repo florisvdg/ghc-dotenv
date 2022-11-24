@@ -1,0 +1,5 @@
+CONNECTIONSTR
+HOST
+PORT
+maxPoolSize
+minPoolSize
