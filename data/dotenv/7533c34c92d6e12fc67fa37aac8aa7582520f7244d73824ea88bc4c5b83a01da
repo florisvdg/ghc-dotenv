@@ -1,0 +1,11 @@
+DB_HOST
+DB_NAME
+DB_PASSWORD
+DB_PORT
+DB_USER
+SYNCHRONIZE
+ca
+cert
+client_id
+client_secret
+key
