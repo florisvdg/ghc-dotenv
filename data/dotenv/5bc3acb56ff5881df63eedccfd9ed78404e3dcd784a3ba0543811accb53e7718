@@ -1,0 +1,9 @@
+binance_api
+binance_secret
+coinbase_api
+coinbase_secret
+mysql_db
+mysql_host
+mysql_password
+mysql_port
+mysql_user
