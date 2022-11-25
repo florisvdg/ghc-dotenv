@@ -1,0 +1,8 @@
+DATABASE
+FacebookToken
+JWT_SECRET
+Mail_Service_Access_Token
+Mail_Service_Client_ID
+Mail_Service_Client_Secret
+Mail_Service_Refresh_Token
+SenderEmail
