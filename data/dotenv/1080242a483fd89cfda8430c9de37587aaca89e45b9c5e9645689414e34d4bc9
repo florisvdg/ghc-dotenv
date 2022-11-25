@@ -1,0 +1,13 @@
+Auth_Email
+Auth_Pass
+DATABASE
+DATABASE_PASSWORD
+Email_From
+Email_host
+Email_port
+JWT_Cookie_ExpiresIn
+JWT_EXPIRES_IN
+JWT_SECRET
+NODE_ENV
+PORT
+Stripe_secret_key
