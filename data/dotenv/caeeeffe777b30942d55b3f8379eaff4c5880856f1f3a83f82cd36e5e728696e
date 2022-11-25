@@ -1,0 +1,5 @@
+DB_PASSWORD
+DB_USERNAME
+Google_Client_ID
+Google_Secret_Key
+JWT_SECRET
