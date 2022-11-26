@@ -1,0 +1,16 @@
+boot_net
+bootm_size
+console
+dev
+erase_env
+fdt_addr_r
+kernel_addr_r
+kernel_comp_addr_r
+loadfdt
+preboot
+ramdisk_addr_r
+script
+scriptaddr
+update_all
+update_firmware
+update_rootfs

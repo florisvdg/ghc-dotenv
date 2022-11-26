@@ -1,0 +1,10 @@
+fdt_addr_r
+fdtfile
+initrd_high
+kernel_addr_r
+linux_image
+loadaddr
+pxefile_addr_r
+ramdisk_addr_r
+reflash
+scriptaddr

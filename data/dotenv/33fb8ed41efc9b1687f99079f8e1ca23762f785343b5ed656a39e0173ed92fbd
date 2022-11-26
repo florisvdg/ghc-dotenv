@@ -1,0 +1,6 @@
+boot_bank_flag
+kernel_addr_bank_0
+kernel_addr_bank_1
+kernel_addr_r
+retrieve_kernel_load_addr
+usb_pgood_delay
