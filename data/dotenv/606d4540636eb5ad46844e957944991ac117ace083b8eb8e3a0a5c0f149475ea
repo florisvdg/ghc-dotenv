@@ -1,0 +1,9 @@
+CLOUDINARY_URL
+MYSQL_DB_NAME
+MYSQL_HOST
+MYSQL_PASSWORD
+MYSQL_USER
+smtp_host
+smtp_pass
+smtp_port
+smtp_user
