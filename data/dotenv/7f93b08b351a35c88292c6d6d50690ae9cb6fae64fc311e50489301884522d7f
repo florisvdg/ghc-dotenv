@@ -1,0 +1,13 @@
+DB_URI
+GCM_API_KEY
+LINKS_DOMAIN
+PORT
+VAPID_PRIVATE_KEY
+VAPID_PUBLIC_KEY
+cors
+domain
+jwtKey
+mailgun_domain
+mailgun_key
+recaptchasecret
+register
