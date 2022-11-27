@@ -1,0 +1,10 @@
+environment
+password
+port
+production_access_token
+production_location_id
+sandbox_access_token
+sandbox_location_id
+secret_key
+sender_email
+smtp_server
