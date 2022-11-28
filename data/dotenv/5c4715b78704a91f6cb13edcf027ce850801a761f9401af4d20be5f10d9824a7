@@ -1,0 +1,5 @@
+mongo_db
+mongo_host
+mongo_port
+redis_host
+redis_port
