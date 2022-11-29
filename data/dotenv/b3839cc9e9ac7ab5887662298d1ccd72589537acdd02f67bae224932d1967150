@@ -1,0 +1,5 @@
+DATABASE_URL
+SECRET_KEY
+userpool__app_client_id
+userpool__region
+userpool__userpool_id
