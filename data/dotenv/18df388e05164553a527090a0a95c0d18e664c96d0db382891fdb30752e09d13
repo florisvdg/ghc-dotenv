@@ -1,0 +1,5 @@
+DEBUG
+DOMAIN
+HOST
+django_key
+secret_key
