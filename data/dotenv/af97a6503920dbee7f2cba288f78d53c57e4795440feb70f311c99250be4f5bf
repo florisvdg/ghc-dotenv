@@ -1,0 +1,6 @@
+JWT_SEC_KEY
+MONGO_URI
+PASS_SEC_KEY
+PORT
+accountSid
+authToken
