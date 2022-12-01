@@ -1,0 +1,7 @@
+ASPNETCORE_ENVIRONMENT
+ConnectionStrings__DefaultConnection
+MockUserSettings__Email
+MockUserSettings__Id
+MockUserSettings__Phone
+MockUserSettings__Role
+USE_MOCK_AUTH
