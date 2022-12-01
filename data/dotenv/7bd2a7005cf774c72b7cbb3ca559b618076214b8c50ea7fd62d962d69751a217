@@ -1,0 +1,17 @@
+GDAL_DATA
+GW_param_file
+LD_LIBRARY_PATH
+PATH
+Resolution
+Variable
+dem_dir
+hydrofabrics_directory
+manning
+method
+nproc
+out_dir_giuh
+out_dir_taudem
+out_dir_twi
+python_env
+soil_param_file
+taudem
