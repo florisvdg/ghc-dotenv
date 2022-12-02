@@ -1,0 +1,11 @@
+caldav_password
+caldav_url
+caldav_user
+calendar_id
+cooloff_minutes
+no_heat_tag
+preheat_minutes
+webhooks_heat_off_action
+webhooks_heat_on_action
+webhooks_key
+webhooks_url
