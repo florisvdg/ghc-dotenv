@@ -1,0 +1,5 @@
+auth_email
+auth_password
+frontend_url
+mongo_url
+server_assets
