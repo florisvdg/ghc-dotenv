@@ -1,0 +1,10 @@
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+RAZORPAY_KEY_ID
+RAZORPAY_KEY_SECRET
+TOKEN_SECRET
+db_host
+db_name
+db_password
+db_username
+jwt_key
