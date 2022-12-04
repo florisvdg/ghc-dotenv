@@ -1,0 +1,8 @@
+baseUrl
+confirmEmailKey
+connectionUri
+port
+salt
+senderEmail
+senderPass
+tokenKey
