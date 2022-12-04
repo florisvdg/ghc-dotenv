@@ -1,0 +1,8 @@
+app_port
+config_mode
+server_mysql_dbname
+server_mysql_dialect
+server_mysql_host
+server_mysql_password
+server_mysql_port
+server_mysql_user
