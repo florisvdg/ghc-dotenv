@@ -1,0 +1,17 @@
+crazy_wiki_address
+crazy_wiki_port
+database_name
+database_network_name
+database_type
+java_compose_opts
+md_address
+md_password
+md_port
+md_username
+pg_address
+pg_password
+pg_port
+pg_username
+repo_compose_opts
+repo_memory
+static_network_name
