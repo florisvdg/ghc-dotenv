@@ -1,0 +1,8 @@
+JWT_SECRET
+Mnemonic
+Pinata_API_Key
+Pinata_API_Secret
+TWILIO_ACCOUNT_SID
+TWILIO_AUTH_TOKEN
+infura_api
+mongoDB_account
