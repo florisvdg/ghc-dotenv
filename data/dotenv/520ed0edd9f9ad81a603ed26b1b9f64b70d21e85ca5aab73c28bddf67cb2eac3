@@ -1,0 +1,11 @@
+database_host
+database_name
+database_password
+database_port
+database_user
+express_mysql_session_cookie_name
+express_mysql_session_cookie_secret
+google_api_key
+passport_session_cookie
+stripe_publishable_key
+stripe_secret_key
