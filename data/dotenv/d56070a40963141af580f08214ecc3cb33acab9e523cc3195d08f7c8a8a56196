@@ -1,0 +1,5 @@
+AdminPassword
+AdminUsername
+MONGO_URL
+PORT
+jwtSecret
