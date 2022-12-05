@@ -1,0 +1,4 @@
+executor_conda_env
+executor_hostname
+executor_ssh_key_file
+executor_username
