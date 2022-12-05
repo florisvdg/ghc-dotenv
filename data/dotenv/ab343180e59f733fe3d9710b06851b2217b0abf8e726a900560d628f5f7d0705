@@ -1,0 +1,7 @@
+ApplicationUrl
+JWT_KEY
+MONGODB_URI
+PORT
+UserMail
+UserPass
+mailHost
