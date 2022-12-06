@@ -1,0 +1,4 @@
+KEY_JWT
+MONGO_CONNECTION
+PORT
+saltRounds
