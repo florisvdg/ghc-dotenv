@@ -1,0 +1,6 @@
+glue_iam
+glue_script_python_file_name
+job_name
+local_path
+s3_bucket
+s3_prefix_glue_script
