@@ -1,0 +1,11 @@
+DATABASE_NAME
+DATABASE_PASS
+DATABASE_USER
+SECRET_KEY
+access_token_url
+checkout_url
+consumer_key
+consumer_secret
+grant_type
+pass_key
+shortcode
