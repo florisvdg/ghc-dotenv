@@ -1,0 +1,5 @@
+PORT
+SHADOW_DATABASE_URL
+jwt_Secret
+passwordId
+postgreSQL_URL
