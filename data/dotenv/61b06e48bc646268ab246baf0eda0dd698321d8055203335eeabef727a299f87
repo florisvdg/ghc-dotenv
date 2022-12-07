@@ -1,0 +1,12 @@
+compartment
+env_code
+project_code
+redis_name
+redis_pep_name
+redis_priv_dns_zone_grp_name
+redis_psc_name
+redis_subnet_key
+rg_redis_name
+tags_tier_redis
+tags_zone_redis
+zone
