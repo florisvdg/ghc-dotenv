@@ -1,0 +1,7 @@
+application_secret
+client_id
+client_listen_addr
+client_redirect_uri
+cluster_name
+issuer
+k8s_master_uri

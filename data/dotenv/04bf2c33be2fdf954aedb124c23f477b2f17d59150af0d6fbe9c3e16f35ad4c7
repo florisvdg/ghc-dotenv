@@ -1,0 +1,10 @@
+application_secret
+client_id
+github_client_id
+github_client_secret
+github_hostname
+github_org_name
+github_use_login_as_id
+issuer
+namespace
+oidc_redirect_uris

@@ -1,0 +1,8 @@
+bash
+controller
+entrypoint
+gsutil
+imagedigestexporter
+kubeconfigwriter
+nop
+webhook

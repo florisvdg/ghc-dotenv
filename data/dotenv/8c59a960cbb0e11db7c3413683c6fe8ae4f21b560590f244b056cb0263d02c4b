@@ -1,0 +1,10 @@
+application_secret
+client_id
+dex_domain
+issuer
+ldap_bind_dn
+ldap_bind_pw
+ldap_group_base_dn
+ldap_host
+ldap_user_base_dn
+oidc_redirect_uris
