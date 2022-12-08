@@ -1,0 +1,12 @@
+DATABASE_URL
+PERMS
+TOKEN
+bridge_from
+bridge_webhook_id
+bridge_webhook_token
+chatgpt_cooldown
+chatgpt_timeout
+chatgpt_token
+math_display_precision
+math_precision
+rare_egg_chance
