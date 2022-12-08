@@ -1,0 +1,6 @@
+DB
+JWTExpire
+JWTSecret
+JWT_Password_Rest
+NODE_ENV
+PORT
