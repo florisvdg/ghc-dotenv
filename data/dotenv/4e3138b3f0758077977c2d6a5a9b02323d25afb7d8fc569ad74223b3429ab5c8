@@ -1,0 +1,11 @@
+DATABASE_URL
+GOOGLE_MAPS_ACCESS_KEY
+JWT_SECRET
+apiKey
+appId
+authDomain
+databaseURL
+measurementId
+messagingSenderId
+projectId
+storageBucket
