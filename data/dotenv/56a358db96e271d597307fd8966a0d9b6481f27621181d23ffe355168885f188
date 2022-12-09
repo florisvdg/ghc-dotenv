@@ -1,0 +1,10 @@
+NODE_ENV
+RDS_DB_NAME
+RDS_HOSTNAME
+RDS_PASSWORD
+RDS_PORT
+RDS_USERNAME
+aws_access_key_id
+aws_bucket
+aws_secret_access_key
+aws_session_token
