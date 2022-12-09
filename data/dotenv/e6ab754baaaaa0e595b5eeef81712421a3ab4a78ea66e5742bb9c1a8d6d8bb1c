@@ -1,0 +1,16 @@
+BASEURL
+BearerKey
+DBURL
+FEURL
+MOOD
+PORT
+SALTROUND
+TOKENSIGNATURE
+api_key
+api_secret
+cloud_name
+confirmEmailToken
+nodemailerEmail
+nodemailerPassword
+webSiteAdminEmail
+webSiteAdminPassword
