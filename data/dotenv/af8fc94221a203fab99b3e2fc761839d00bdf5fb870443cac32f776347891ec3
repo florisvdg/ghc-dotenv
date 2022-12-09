@@ -1,0 +1,13 @@
+API_URL
+BLIZZARD_API_KEY
+CURRENT_RAID
+JWT_SECRET
+MYTHIC_SEASON
+PREVIOUS_RAID
+dbDatabase
+dbHost
+dbPassword
+dbPort
+dbUsername
+frontUrl
+redirectUri
