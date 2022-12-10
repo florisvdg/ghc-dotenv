@@ -1,0 +1,10 @@
+DRUID_SERVICE
+DRUID_SERVICE_JAVA_OPTS
+druid_auth_basic_common_cacheDirectory
+druid_host
+druid_router_http_numConnections
+druid_router_http_numMaxThreads
+druid_router_http_readTimeout
+druid_router_managementProxy_enabled
+druid_server_http_numThreads
+druid_sql_avatica_enable
