@@ -1,0 +1,4 @@
+DB_CONNECT
+NODE_ENV
+PORT
+sessionSecret
