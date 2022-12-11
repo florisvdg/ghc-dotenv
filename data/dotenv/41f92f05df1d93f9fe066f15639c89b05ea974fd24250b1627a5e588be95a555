@@ -1,0 +1,7 @@
+dev_database
+dev_host
+dev_password
+dev_user
+session_secret
+user_level_admin
+user_level_common
