@@ -1,0 +1,5 @@
+AIRFLOW_GID
+AIRFLOW_UID
+PYTHONPATH
+bucket_name
+key_name

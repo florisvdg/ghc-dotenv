@@ -1,0 +1,11 @@
+BUCKET_NAME
+INSTANCE
+LOCAL_DATA_PATH
+PROJECT
+REGION
+binary_test_dir
+binary_train_dir
+binary_val_dir
+categorical_test_dir
+categorical_train_dir
+categorical_val_dir
