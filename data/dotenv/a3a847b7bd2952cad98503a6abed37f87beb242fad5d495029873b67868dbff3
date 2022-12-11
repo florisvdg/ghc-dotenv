@@ -1,0 +1,15 @@
+CORS_ORIGIN
+HASH_SALT_ROUNDS
+HTTPS_SERVER_CA
+HTTPS_SERVER_CERTIFICATE
+HTTPS_SERVER_PRIVATE_KEY
+HTTPS_TRUSTED_CLIENT_CA_LIST
+JWT_SECRET
+apiKey
+appId
+authDomain
+databaseURL
+measurementId
+messagingSenderId
+projectId
+storageBucket
