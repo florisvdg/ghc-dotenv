@@ -1,0 +1,9 @@
+COMPOSE_PROJECT_NAME
+capif_key_path
+nef_callback_url
+nef_host
+netapp_id
+netapp_name
+netapp_path
+netapp_port_vapp
+ue_requested_ip
