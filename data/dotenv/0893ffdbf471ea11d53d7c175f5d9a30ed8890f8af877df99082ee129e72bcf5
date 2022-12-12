@@ -1,0 +1,13 @@
+PORT
+db_database
+db_host
+db_password
+db_port
+db_user
+google_maps_api_key
+nodemailerEmail
+nodemailerPass
+nodemailerPort
+nodemailer_host
+radius
+web_url
