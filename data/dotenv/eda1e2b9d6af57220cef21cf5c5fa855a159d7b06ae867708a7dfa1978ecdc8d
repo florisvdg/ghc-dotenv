@@ -1,0 +1,6 @@
+AIName
+FrequencyPenalty
+PresencePenalty
+max_tokens
+temperature
+top_p
