@@ -1,0 +1,8 @@
+ADMIN_SEC
+DB_Connect
+PASS_SEC
+SECRET_TOKEN
+SERVER_URL
+STRIPE_PRIVATE_KEY
+admin_password
+admin_username
