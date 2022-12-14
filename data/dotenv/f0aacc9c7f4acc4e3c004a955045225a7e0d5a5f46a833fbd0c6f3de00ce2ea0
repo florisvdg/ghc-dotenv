@@ -1,0 +1,15 @@
+COMPOSE_PROJECT_NAME
+capif_callback_url
+capif_host
+capif_http_port
+capif_https_port
+capif_key_path
+nef_callback_url
+nef_host
+nef_login
+nef_pwd
+netapp_id
+netapp_name
+netapp_path
+netapp_port_vapp
+ue_requested_ip
