@@ -1,0 +1,13 @@
+NODE_ENV
+NODE_OPTIONS
+PORT
+dburl
+img
+prod_db_url
+secret
+secure
+service_mail
+service_password
+smtphost
+smtpport
+uat_db_rl
