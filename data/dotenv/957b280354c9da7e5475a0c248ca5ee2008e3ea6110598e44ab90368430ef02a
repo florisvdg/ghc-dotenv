@@ -1,0 +1,7 @@
+JWT_SECRET
+NODE_TLS_REJECT_UNAUTHORIZED
+PORT
+mongo_db_name
+mongo_host_name
+mongo_password
+mongo_username
