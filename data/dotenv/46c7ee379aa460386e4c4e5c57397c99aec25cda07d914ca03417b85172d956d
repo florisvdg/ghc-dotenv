@@ -1,0 +1,12 @@
+OAuth2_URL
+bot_token
+discord_client_id
+discord_client_secret
+discord_redirect_uri
+division_Id
+division_member_roleId
+foreign_member_roleId
+guild_id
+ivao_client_id
+ivao_client_secret
+ivao_redirect_uri
