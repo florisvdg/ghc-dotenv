@@ -1,0 +1,4 @@
+TokenOptions__AccessTokenExpiration
+TokenOptions__Audience
+TokenOptions__Issuer
+TokenOptions__SecurityKey

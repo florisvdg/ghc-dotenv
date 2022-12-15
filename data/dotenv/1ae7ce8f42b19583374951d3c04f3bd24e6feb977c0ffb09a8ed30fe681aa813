@@ -1,0 +1,4 @@
+RabbitMqOptions__HostName
+RabbitMqOptions__Password
+RabbitMqOptions__UserName
+RabbitMqOptions__VirtualHost
