@@ -1,0 +1,17 @@
+DATABASE
+DATABASE_PASSWORD
+EMAIL_HOST
+Email_From
+Email_password
+Email_port
+Email_username
+JWT_COOKIE_EXP
+JWT_EXPIRES_IN
+JWT_SECRET
+NODE_ENV
+PORT
+Stripe_secret_key
+Stripe_webhook_secret
+USER
+sendInBlue_Password
+sendInBlue_Username
