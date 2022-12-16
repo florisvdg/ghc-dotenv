@@ -1,0 +1,15 @@
+BASEURL
+BearerKey
+DBURI
+FEURL
+MOOD
+SALTROUND
+api_key
+api_secret
+cloud_name
+emailToken
+nodeMailerEmail
+nodeMailerPassword
+senderEmail
+senderPassword
+tokenSignature
