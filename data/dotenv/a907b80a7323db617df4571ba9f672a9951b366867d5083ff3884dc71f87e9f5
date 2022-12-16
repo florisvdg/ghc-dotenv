@@ -1,0 +1,13 @@
+PORT
+appKey
+appName
+databaseHost
+databaseName
+databasePassword
+databasePort
+databaseType
+databaseUser
+loginTry
+memoryExpireMin
+memoryExpireTime
+memoryMaxCount
