@@ -1,0 +1,8 @@
+DATABASE_NAME
+DATABASE_PASS
+DATABASE_USER
+SECRET_KEY
+account_sid
+auth_token
+razorpay_id
+razorpay_secret
