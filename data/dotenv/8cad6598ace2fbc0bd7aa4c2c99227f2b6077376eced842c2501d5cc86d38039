@@ -1,0 +1,7 @@
+STRIPE_KEY
+STRIPE_SECRET
+dbname
+host
+password
+port
+user
