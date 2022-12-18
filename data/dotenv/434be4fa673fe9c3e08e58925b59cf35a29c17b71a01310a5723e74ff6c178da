@@ -1,0 +1,7 @@
+JWT_SECRET_KEY
+ROLE_ADMIN
+ROLE_USER
+database
+host
+password
+user
