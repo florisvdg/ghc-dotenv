@@ -1,0 +1,7 @@
+APP_URL
+DATABASE_URL
+EMAIL
+NEXTAUTH_URL
+PASSWORD
+client_id
+client_secret
