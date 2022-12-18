@@ -1,0 +1,17 @@
+Backend
+Cloud_key
+Cloud_name
+Cloud_secret
+Database
+FRONTEND_URL
+NODE_ENV
+PORT
+SMTP_EMAIL
+SMTP_FROM_EMAIL
+SMTP_FROM_NAME
+SMTP_HOST
+SMTP_PASS
+SMTP_PORT
+cookie_expire
+jwt_expire_time
+jwt_secret
