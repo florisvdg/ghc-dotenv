@@ -1,0 +1,6 @@
+PM_API_TOKEN_ID
+PM_API_TOKEN_SECRET
+TF_VAR_gw
+TF_VAR_nameserver
+TF_VAR_pm_api_url
+TF_VAR_searchdomain
