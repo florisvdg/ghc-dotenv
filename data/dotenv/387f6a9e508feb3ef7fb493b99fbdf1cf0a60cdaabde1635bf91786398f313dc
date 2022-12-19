@@ -1,0 +1,12 @@
+mongo_collection
+mongo_db
+mongo_host
+mongo_pass
+mongo_port
+mongo_user
+pg_db
+pg_host
+pg_pass
+pg_port
+pg_table
+pg_user
