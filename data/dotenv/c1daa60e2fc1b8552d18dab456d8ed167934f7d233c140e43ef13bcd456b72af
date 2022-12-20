@@ -1,0 +1,14 @@
+BASEURL
+BearerKey
+DBURI
+DBURIONLINE
+ENV
+PORT
+SALTROUND
+api_key
+api_secret
+cloud_name
+emailToken
+nodeMailerEmail
+nodeMailerPassword
+tokenSignature
