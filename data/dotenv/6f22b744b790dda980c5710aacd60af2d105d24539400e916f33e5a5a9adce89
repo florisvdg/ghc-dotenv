@@ -1,0 +1,15 @@
+MONGO
+PORT
+SEC_KEY
+apiKey
+appId
+appfId
+authDomain
+cluster
+key
+measurementId
+messagingSenderId
+projectId
+secret
+storageBucket
+useTLS
