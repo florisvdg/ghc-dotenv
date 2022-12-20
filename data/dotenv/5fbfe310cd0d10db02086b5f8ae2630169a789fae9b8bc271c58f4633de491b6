@@ -1,0 +1,11 @@
+DATABASE_URL
+app_id
+app_secret
+client_id
+client_secret
+corp_id
+end_point
+qiniu_access_key
+qiniu_host
+qiniu_scope
+qiniu_secret_key
