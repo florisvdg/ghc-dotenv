@@ -1,0 +1,7 @@
+hbase_host
+hbase_table_name
+kafka_topic
+kafka_url
+scala_version
+spark_master
+spark_version
