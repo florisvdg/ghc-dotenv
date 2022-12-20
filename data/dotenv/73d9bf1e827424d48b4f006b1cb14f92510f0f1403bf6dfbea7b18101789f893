@@ -1,0 +1,5 @@
+mailer_sender
+smtp_authentication
+smtp_domain
+smtp_enable_starttls_auto
+smtp_port
