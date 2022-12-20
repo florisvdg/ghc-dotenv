@@ -1,0 +1,14 @@
+AppConfigFolder
+HttpsCertFileName
+HttpsCertFolder
+HttpsCertPassword
+HttpsRedirect
+LogsFolder
+MULTI_ENV_DOCKER_TAG
+MultiEnvAuthDbConnection
+MultiEnvDbConnection
+MultiEnvGitDataEncKey
+RepoFolder
+SqlUseManagedNetworkingOnWindows
+http_port
+https_port
