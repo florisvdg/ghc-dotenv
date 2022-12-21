@@ -1,0 +1,8 @@
+BACKEND_CORS_ORIGINS
+DATABASE_ADDRESS
+HASH_SALT
+PROJECT_NAME
+SECRET_KEY
+applications_team_email
+contact_email
+contact_email_password
