@@ -1,0 +1,5 @@
+DB
+SECRET_KEY
+mydb_host
+mydb_password
+mydb_user
