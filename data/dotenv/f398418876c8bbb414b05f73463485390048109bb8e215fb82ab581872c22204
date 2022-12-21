@@ -1,0 +1,14 @@
+DB_HOST
+DB_NAME
+DB_PASSWORD
+DB_PORT
+DB_USER
+JWT_SECRET
+KUDA_API_TOKEN
+KUDA_EMAIL
+Prod_URL
+REGUS
+Test_Base_URL
+client_ID
+cliwnt_secret
+public_token
