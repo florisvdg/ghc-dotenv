@@ -1,0 +1,12 @@
+JISHAKU_FORCE_PAGINATOR
+JISHAKU_HIDE
+JISHAKU_NO_DM_TRACEBACK
+JISHAKU_NO_UNDERSCORE
+JISHAKU_RETAIN
+bot_guild
+database
+db_port
+db_pwd
+db_user
+ipc_key
+token
