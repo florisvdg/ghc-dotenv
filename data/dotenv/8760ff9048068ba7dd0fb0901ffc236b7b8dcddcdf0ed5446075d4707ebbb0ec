@@ -1,0 +1,10 @@
+App__ClientUrl
+App__CorsOrigins
+App__RedirectAllowedUrls
+App__SelfUrl
+AuthServer__Authority
+AuthServer__AuthorizationEndpoint
+AuthServer__ClientId
+AuthServer__ClientSecret
+AuthServer__TokenEndpoint
+AuthServer__UserInformationEndpoint
