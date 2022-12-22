@@ -1,0 +1,5 @@
+MONGO_DB_URL
+SECRET_KEY
+api_key
+api_secret
+cloud_name
