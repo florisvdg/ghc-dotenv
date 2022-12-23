@@ -1,0 +1,10 @@
+emailDefaultToAddress
+emailFromAddress
+emailFromName
+emailFromPassword
+emailHost
+emailPort
+notionDatabaseId
+notionSecret
+telegramBotToken
+telegramChatId
