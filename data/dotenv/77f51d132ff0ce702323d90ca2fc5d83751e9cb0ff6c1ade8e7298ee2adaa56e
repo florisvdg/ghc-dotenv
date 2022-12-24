@@ -1,0 +1,10 @@
+database
+db_host
+db_password
+db_port
+db_root_password
+db_user
+debug
+redis_host
+redis_port
+secret_key
