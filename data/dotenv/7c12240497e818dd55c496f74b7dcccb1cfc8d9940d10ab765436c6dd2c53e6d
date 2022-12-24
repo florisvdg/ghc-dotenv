@@ -1,0 +1,9 @@
+GIN_MODE
+dbhost
+dbname
+dbpassword
+dbport
+dbuser
+host
+port
+trustedProxies
