@@ -1,0 +1,8 @@
+clusesr_arn
+ecr_registry
+ecr_repo
+ecs_cluster
+ecs_family
+ecs_security_group
+ecs_subnet
+service_arn
