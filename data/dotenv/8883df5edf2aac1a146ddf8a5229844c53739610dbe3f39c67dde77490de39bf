@@ -1,0 +1,7 @@
+PORT
+SESSION_SECRET
+database_host
+database_name
+database_password
+database_port
+database_user
