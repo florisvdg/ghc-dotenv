@@ -1,0 +1,9 @@
+accessKeyId
+apiVersion
+bucket
+copyObjectKey
+endpoint
+objectKey
+region
+s3ForcePathStyle
+secretAccessKey
