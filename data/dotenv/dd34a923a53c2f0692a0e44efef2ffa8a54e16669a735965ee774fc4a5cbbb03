@@ -1,0 +1,15 @@
+BearerKey
+DBURI
+FEURL
+MOOD
+SALTROUND
+api_key
+api_secret
+cloud_name
+emailToken
+facebookLink
+instegram
+nodeMailerEmail
+nodeMailerPassword
+tokenSignature
+twitterLink
