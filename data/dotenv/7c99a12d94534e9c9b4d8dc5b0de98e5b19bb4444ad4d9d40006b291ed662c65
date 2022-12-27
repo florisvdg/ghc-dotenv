@@ -1,0 +1,6 @@
+CLOUDINARY_URL
+api_key
+api_secret
+cloud_name
+jwt_secret
+mongoURL
