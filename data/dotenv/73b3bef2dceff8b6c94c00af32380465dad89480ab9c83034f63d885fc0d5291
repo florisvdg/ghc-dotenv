@@ -1,0 +1,15 @@
+cred
+dest_topic_id
+job_id
+key_attrib
+network
+project_id
+region
+repeat_interval
+source_topic_id
+staging_location
+subnetwork
+temp_location
+threshold_value
+up_threshold_yn
+window_interval
