@@ -1,0 +1,7 @@
+DEBUG
+SECRET_KEY
+azure_account_connection_string
+azure_account_key
+azure_account_name
+host_email
+host_pwd

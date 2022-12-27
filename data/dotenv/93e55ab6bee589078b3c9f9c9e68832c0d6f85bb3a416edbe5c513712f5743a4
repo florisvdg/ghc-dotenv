@@ -1,0 +1,11 @@
+SITE_BASE_URL
+SITE_NAME_HEADER
+dgEnableSearch
+dgHomeLink
+dgLinkPreview
+dgPassFrontmatter
+dgShowBacklinks
+dgShowFileTree
+dgShowInlineTitle
+dgShowLocalGraph
+dgShowToc
