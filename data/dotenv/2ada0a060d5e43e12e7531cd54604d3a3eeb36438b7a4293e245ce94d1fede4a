@@ -1,0 +1,14 @@
+DOMAIN_NAME
+MYSQL_DATABASE
+MYSQL_HOST
+MYSQL_PASSWORD
+MYSQL_ROOT_PASSWORD
+MYSQL_USER
+admin_email
+admin_password
+admin_user
+ftp_pwd
+ftp_username
+ssl_certificate
+ssl_certificate_key
+title
