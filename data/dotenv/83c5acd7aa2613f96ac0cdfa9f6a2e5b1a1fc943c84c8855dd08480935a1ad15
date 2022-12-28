@@ -1,0 +1,8 @@
+coordinates_file_path
+face_database_path
+face_detection_model_path
+face_gallary_crop_flag
+face_reidentification_model_path
+input_directory_path
+input_image_path
+landmark_regression_model_path
