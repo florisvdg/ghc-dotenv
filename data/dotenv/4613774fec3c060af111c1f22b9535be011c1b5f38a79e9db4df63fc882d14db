@@ -1,0 +1,16 @@
+CADDY_LOG_LEVEL
+CADDY_ROOT_DIR
+CADDY_SITE_ADDRESS
+PUBLIC_API_URL
+PUBLIC_AUTH_CLIENT_ID
+PUBLIC_AUTH_REALM
+PUBLIC_AUTH_URL
+PUBLIC_DASHBOARD_URL
+PUBLIC_NOTIFICATIONS_URL
+PUBLIC_PROFILE_URL
+sops_age__list_0__map_enc
+sops_age__list_0__map_recipient
+sops_encrypted_regex
+sops_lastmodified
+sops_mac
+sops_version

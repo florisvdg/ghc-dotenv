@@ -1,0 +1,10 @@
+CADDY_LOG_LEVEL
+CADDY_TLS_DOMAIN
+CADDY_TLS_EMAIL
+CADDY_TLS_GODADDY_TOKEN
+sops_age__list_0__map_enc
+sops_age__list_0__map_recipient
+sops_encrypted_regex
+sops_lastmodified
+sops_mac
+sops_version

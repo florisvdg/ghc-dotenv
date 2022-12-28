@@ -1,0 +1,8 @@
+CADDY_DOMAIN
+CADDY_LOG_LEVEL
+sops_age__list_0__map_enc
+sops_age__list_0__map_recipient
+sops_encrypted_regex
+sops_lastmodified
+sops_mac
+sops_version
