@@ -1,0 +1,12 @@
+DB_NAME
+DataBaseUrl
+GOOGLE_CLOUD_BUCKET_NAME
+GOOGLE_CLOUD_KEY_FILE_NAME
+TOKEN_SECRET
+audience
+expiresIn
+issuer
+mail_from
+mail_password
+mail_user
+subject
