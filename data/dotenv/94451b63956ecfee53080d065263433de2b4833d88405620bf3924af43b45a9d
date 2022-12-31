@@ -1,0 +1,6 @@
+MYSQL_CONN_STRING
+S3APIKey
+S3BucketName
+S3Domain
+S3Region
+S3SecretKey
