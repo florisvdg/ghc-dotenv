@@ -1,0 +1,8 @@
+AWS_ACCESS_KEY_ID
+AWS_REGION
+AWS_SECRET_ACCESS_KEY
+cloudinary_key
+cloudinary_secret
+database_url
+mail_password
+mail_user
