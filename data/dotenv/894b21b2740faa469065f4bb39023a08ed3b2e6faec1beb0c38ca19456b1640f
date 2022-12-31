@@ -1,0 +1,7 @@
+JWT_SECRET_KEY
+fb_apiKey
+fb_appId
+fb_authDomain
+fb_messagingSenderId
+fb_projectId
+fb_storageBucket

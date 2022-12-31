@@ -1,0 +1,12 @@
+AUTH_SECRET
+NEXTAUTH_URL
+dbApp
+dbHis
+hostApp
+hostHis
+passwordApp
+passwordHis
+portApp
+portHis
+userApp
+userHis
