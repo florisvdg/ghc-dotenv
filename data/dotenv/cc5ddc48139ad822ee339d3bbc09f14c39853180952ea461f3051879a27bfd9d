@@ -1,0 +1,6 @@
+dbHost
+dbName
+dbPassword
+dbPort
+dbUser
+sessionSecret
