@@ -1,0 +1,8 @@
+JWT_SECRET
+Port_App
+clientError
+hostName
+mongoURI
+notFound
+serverError
+unauthorizedResponse
