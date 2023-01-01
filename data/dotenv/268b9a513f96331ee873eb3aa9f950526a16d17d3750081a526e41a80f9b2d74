@@ -1,0 +1,16 @@
+GHOST_ADMIN_API_KEY
+database__client
+database__connection__database
+database__connection__host
+database__connection__password
+database__connection__user
+logging__transports
+mail__options__auth__pass
+mail__options__auth__user
+mail__options__service
+mail__transport
+paths__contentPath
+process
+server__host
+server__port
+url
