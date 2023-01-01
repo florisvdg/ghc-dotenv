@@ -1,0 +1,11 @@
+cwd
+docker_file_name
+kafka_broker_1
+kafka_broker_2
+kafka_broker_3
+kafka_home
+zookeeper_home
+zookeeper_version
+zookeeper_worker_1
+zookeeper_worker_2
+zookeeper_worker_3
