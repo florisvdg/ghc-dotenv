@@ -1,0 +1,6 @@
+ACCESS_TOKEN_SECRET
+JWT_SECRET
+PORT
+REFRESH_TOKEN_SECRET
+app_secret_fb
+client_id_fb
