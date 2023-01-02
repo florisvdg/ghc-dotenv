@@ -1,0 +1,8 @@
+dbdialect
+dbhost
+dbpassword
+dbschema
+dbuser
+jwt
+razorKey
+razorSecretkey
