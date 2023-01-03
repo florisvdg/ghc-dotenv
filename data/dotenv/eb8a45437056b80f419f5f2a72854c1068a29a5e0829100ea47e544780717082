@@ -1,0 +1,5 @@
+kafka_host
+kafka_port
+kafka_registry_host
+kafka_registry_port
+schemas_path
