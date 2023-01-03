@@ -1,0 +1,6 @@
+EMAIL_HOST
+EMAIL_SERVICE
+Email
+JWT_Key
+MONGO_URL
+Password
