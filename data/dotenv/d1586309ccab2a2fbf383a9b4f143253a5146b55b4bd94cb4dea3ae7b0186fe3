@@ -1,0 +1,9 @@
+app_port
+config_mode
+global_router_prefix
+mysql_dbname
+mysql_host
+mysql_password
+mysql_user
+password_salt
+token_key
