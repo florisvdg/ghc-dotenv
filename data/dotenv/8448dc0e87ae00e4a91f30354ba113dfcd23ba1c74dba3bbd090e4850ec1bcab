@@ -1,0 +1,10 @@
+AdminclientID
+AdminclientSecret
+SendgridAPIKey
+clientID
+clientSecret
+dbURI
+jwtSecret
+key_id
+key_secret
+sendgridEmail

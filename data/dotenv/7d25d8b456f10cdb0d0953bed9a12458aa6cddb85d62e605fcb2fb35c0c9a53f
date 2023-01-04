@@ -1,0 +1,8 @@
+authUrl
+clientId
+clientSecret
+oauthScope
+port
+redirectUri
+testApiEndpoint
+tokenUrl
