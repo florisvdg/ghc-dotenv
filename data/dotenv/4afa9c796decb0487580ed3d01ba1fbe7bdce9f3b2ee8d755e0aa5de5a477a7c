@@ -1,0 +1,7 @@
+DATABASE
+JWT_EXPIRES_IN
+JWT_SECRET
+NODE_ENVIROMMENT
+PORT
+Stripe_Publishable_key
+Stripe_Secret_key
