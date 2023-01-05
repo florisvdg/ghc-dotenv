@@ -1,0 +1,6 @@
+ENVCMD
+TEST_BIN
+TEST_NAME
+exitcode
+nerrors
+srcdir

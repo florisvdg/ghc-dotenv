@@ -1,0 +1,7 @@
+ENVCMD
+TEST_BIN
+TEST_NAME
+UNENVCMD
+exitcode
+nerrors
+srcdir
