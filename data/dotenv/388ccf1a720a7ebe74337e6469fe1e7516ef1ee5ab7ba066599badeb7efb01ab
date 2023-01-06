@@ -1,0 +1,15 @@
+EMAIL_FORM
+EMAIL_PASS
+EMAIL_PORT
+EMAIL_SERVICE
+EMAIL_USER
+PORT
+jwt_cookie_expire
+jwt_expire
+jwt_secret
+otpDLT_TE_ID
+otpMethod
+otpRoute
+otpSender
+otpUrl
+otpauthkey
