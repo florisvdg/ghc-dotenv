@@ -1,0 +1,6 @@
+COOKIES_NAME
+PORT
+SECRET_KEY
+mongoDB_URL
+nodemailer_email
+nodemailer_pass
