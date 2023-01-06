@@ -1,0 +1,9 @@
+DATABASE
+HOST
+MongoURI
+PORT
+clientId
+clientSecret
+pass
+refreshToken
+user
