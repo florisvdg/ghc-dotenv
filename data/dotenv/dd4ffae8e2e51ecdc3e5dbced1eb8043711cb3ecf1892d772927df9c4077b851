@@ -1,0 +1,10 @@
+SECRET_KEY
+databaseName
+dbPassword
+dbUserName
+dialect
+emailId
+emailPassword
+emailTo
+host
+port
