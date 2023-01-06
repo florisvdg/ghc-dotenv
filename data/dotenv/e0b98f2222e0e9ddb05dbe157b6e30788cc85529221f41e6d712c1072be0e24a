@@ -1,0 +1,15 @@
+app_env
+app_key
+db_charset
+db_host
+db_name
+db_port
+db_pwd
+db_user
+http_host
+http_port
+redis_auth
+redis_db
+redis_host
+server_name
+static_url
