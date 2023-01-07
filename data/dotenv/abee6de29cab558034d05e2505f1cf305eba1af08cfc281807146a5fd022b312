@@ -1,0 +1,7 @@
+actix
+edition
+name
+rand
+serde
+serde_json
+version
