@@ -1,0 +1,10 @@
+HMAC_KEY
+MainServiceHost
+MainServicePort
+MysqlDatabase
+MysqlHost
+MysqlPassword
+MysqlPort
+MysqlUsername
+UserServiceHost
+UserServicePort
