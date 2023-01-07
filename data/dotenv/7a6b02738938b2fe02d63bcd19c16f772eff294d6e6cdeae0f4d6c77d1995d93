@@ -1,0 +1,10 @@
+app_result_path
+batch_size
+check_mode
+domain
+download_path
+max_depth
+ngrok_url
+out_of_scope_domains
+single_url
+tools_path
