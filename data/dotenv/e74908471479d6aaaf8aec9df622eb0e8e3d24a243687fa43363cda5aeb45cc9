@@ -1,0 +1,16 @@
+PRIVATE_KEY
+PUBLIC_KEY
+SECRET_KEY
+TXB_PUBLIC_KEY
+access_token_secret
+access_token_time
+app_port
+database
+db_port
+host
+otp_time
+password
+password_email
+refresh_token_time
+user
+username_email
