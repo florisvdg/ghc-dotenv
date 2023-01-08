@@ -1,0 +1,9 @@
+
+GENERATE_SOURCEMAP
+VITE_apiKey
+VITE_appId
+VITE_authDomain
+VITE_measurementId
+VITE_messagingSenderId
+VITE_projectId
+VITE_storageBucket
