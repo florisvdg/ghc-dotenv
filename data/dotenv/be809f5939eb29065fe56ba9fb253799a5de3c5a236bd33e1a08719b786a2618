@@ -1,0 +1,12 @@
+database_dialect
+database_encryption_key
+database_name
+database_password
+database_port
+database_type
+database_user
+frontend_path
+jwt_secret
+machine_domain
+release
+version
