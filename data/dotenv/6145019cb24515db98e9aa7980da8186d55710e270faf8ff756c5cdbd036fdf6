@@ -1,0 +1,12 @@
+ali_cloud_access_key
+ali_cloud_access_key_secret
+ali_cloud_arn
+app_port
+config_mode
+global_router_prefix
+mysql_dbname
+mysql_host
+mysql_password
+mysql_user
+password_salt
+token_key
