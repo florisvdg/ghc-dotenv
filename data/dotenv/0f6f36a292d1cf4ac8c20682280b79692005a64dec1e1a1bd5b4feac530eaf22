@@ -1,0 +1,13 @@
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+EmailSender
+JwtSecret
+RootEmail
+RootPassword
+database
+databaseLogin
+databasePassword
+port
+server
+swaggerLogin
+swaggerPassword
