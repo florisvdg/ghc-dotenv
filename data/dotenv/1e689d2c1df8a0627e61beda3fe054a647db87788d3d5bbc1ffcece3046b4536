@@ -1,0 +1,12 @@
+GIN_MODE
+HeartbeatInterval
+Host
+LOG_LEVEL
+MYSQL_DSN
+MaxConn
+Name
+REDIS_ADDR
+REDIS_DB
+REDIS_PW
+SESSION_SECRET
+TcpPort
