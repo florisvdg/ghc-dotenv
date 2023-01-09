@@ -1,0 +1,15 @@
+EEprom_ivm
+arch
+boot
+checkfdt
+cramfsloadfdt
+fpgacfg
+hostname
+hwconfig
+netdev
+newenv
+set_fdthigh
+uimage
+update
+usb_dr_mode
+usb_phy_type

@@ -1,0 +1,7 @@
+arch
+bootm_mapsize
+checkfdt
+newenv
+set_fdthigh
+unlock
+update
