@@ -1,0 +1,12 @@
+Admin_Password
+Admin_username
+AttachmentLimit
+AttachmentSize
+HTTPS
+HTTPS_CACHAIN
+HTTPS_CERT
+HTTPS_PRIVATEKEY
+JWT_SECRET
+MONGO_URL
+NODE_ENV
+PORT
