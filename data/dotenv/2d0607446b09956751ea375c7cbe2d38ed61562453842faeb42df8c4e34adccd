@@ -1,0 +1,10 @@
+APP_NAME
+AWS_DEFAULT_REGION
+ECR
+ENVR
+EVENT
+KUBE_CONFIG_PATH
+OWNER
+REPO_NAME
+helm_version
+terragrunt_version
