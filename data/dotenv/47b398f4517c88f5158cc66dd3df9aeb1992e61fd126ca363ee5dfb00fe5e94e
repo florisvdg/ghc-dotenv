@@ -1,0 +1,6 @@
+CORS_ORIGIN
+LUIS_endpoint
+LUIS_subscriptionKey
+LUIS_threshold
+SERVER_PORT
+USE_AUTH
