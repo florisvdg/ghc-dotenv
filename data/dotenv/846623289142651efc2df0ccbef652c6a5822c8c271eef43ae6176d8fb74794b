@@ -1,0 +1,9 @@
+MONGO_LOCAL
+PORT
+TOKEN_SECRET
+URL
+auth_url
+consumer_key
+consumer_secret
+initiatorName
+initiatorPassword
