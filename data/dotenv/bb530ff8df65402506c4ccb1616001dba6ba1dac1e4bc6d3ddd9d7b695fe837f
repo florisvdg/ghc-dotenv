@@ -1,0 +1,17 @@
+BASE_THEME
+SITE_BASE_URL
+SITE_NAME_HEADER
+THEME
+dgCreatedTimestampName
+dgEnableSearch
+dgHomeLink
+dgLinkPreview
+dgPassFrontmatter
+dgShowBacklinks
+dgShowFileTree
+dgShowInlineTitle
+dgShowLocalGraph
+dgShowTags
+dgShowTimestamps
+dgShowToc
+dgUpdatedTimestampName
