@@ -1,0 +1,8 @@
+HOSTNAME
+JWT_SECRET_KEY
+PORT
+URL
+dbatlasurl
+dbname
+dbusername
+password
