@@ -1,0 +1,5 @@
+TF_VAR_billing_account
+TF_VAR_firebase_location
+TF_VAR_project
+TF_VAR_region
+TF_VAR_user
