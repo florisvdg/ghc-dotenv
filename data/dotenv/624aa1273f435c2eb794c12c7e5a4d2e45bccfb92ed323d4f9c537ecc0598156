@@ -1,0 +1,4 @@
+NODE_ENV
+jwt_secret
+mongo_url
+stripe_key
