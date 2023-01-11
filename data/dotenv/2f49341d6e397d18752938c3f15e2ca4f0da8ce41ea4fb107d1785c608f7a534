@@ -1,0 +1,8 @@
+ENCRPYT_ALG
+ENCRPYT_KEY
+ENCRPYT_SIZE
+NODE_ENV
+PORT
+db_url
+jwt_expires
+jwt_secret
