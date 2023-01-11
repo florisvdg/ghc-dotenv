@@ -1,0 +1,6 @@
+CLIENT_URL
+JWT_SEC
+JWT_account_activated
+JWT_reset_password_key
+MONGO_URL
+PASS_SEC
