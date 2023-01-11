@@ -1,0 +1,15 @@
+API_URL
+database_host
+database_name
+database_password
+database_port
+database_username
+db_type
+mode
+port
+redis_app_namespace
+redis_host
+redis_noti_namespace
+redis_password
+redis_port
+redis_sidekiq_namespace
