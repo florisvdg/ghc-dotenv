@@ -1,0 +1,17 @@
+MYSQL
+PORT
+TOKEN_KEY
+database
+host
+link_api
+link_client
+owner
+password
+smtp_host
+smtp_pass
+smtp_port
+smtp_rejectUnauthorized
+smtp_secure
+smtp_user
+superadmin
+user
