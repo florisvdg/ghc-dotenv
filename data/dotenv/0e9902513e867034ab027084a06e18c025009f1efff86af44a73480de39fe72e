@@ -1,0 +1,6 @@
+FASTAPI_RELOAD
+HOST
+LOG_LEVEL
+PORT
+command_sep
+command_start
