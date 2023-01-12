@@ -1,0 +1,11 @@
+nodeEnv
+pepperHash
+pgDb
+pgDb_test
+pgHost
+pgPassword
+pgPort
+pgUser
+port
+saltRound
+token
