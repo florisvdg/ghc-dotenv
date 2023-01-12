@@ -1,0 +1,12 @@
+VUE_APP_config_auto_refresh_seconds
+VUE_APP_config_history_time
+VUE_APP_config_logs_history_days
+VUE_APP_config_mode
+VUE_APP_config_proxy_link
+VUE_APP_config_readonly_apikey
+VUE_APP_config_success_min
+VUE_APP_config_title
+VUE_APP_config_title_english
+VUE_APP_config_warning_min
+VUE_APP_logs_each_page
+VUE_APP_use_env
