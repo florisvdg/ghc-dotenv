@@ -1,0 +1,12 @@
+BASE_THEME
+SITE_BASE_URL
+SITE_NAME_HEADER
+THEME
+dgEnableSearch
+dgHomeLink
+dgPassFrontmatter
+dgShowBacklinks
+dgShowFileTree
+dgShowLocalGraph
+dgShowTags
+dgShowToc
