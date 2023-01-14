@@ -1,0 +1,12 @@
+database_url
+db_host
+db_name
+db_pass
+db_port
+db_type
+db_user
+jwt_secret
+mail_password
+mail_port
+mail_server
+mail_user
