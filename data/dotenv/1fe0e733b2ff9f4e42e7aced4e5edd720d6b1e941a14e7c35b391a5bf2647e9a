@@ -1,0 +1,12 @@
+API_USER_ACTIVATION_URL
+APP_KEY
+CI_ENVIRONMENT
+MAIL_LOG
+MAP_API_KEY
+email_SMTPHost
+email_SMTPPass
+email_SMTPPort
+email_SMTPUser
+email_mailPath
+email_mailType
+email_protocol
