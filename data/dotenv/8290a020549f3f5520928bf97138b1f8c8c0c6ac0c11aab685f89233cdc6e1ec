@@ -1,0 +1,17 @@
+AIURL
+BASEURL
+BearerKey
+DBURL
+DBURLOnline
+FEURL
+LOCALAIURL
+MOOD
+api_key
+api_secret
+cloud_name
+encKey
+nodeMailerEmail
+nodeMailerPassword
+saltRound
+secretKey
+tokenSignature
