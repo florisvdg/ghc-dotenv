@@ -1,0 +1,4 @@
+DEBUG
+SECRET_KEY
+account_sid
+auth_token
