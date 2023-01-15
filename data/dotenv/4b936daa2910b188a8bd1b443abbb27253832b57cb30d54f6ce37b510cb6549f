@@ -1,0 +1,15 @@
+ENV
+LOCATION
+TF_CONTAINER
+TF_STATE_RG
+TF_STORAGE_ACCOUNT_PREFIX
+agent_inbound_ports
+app_inbound_ports
+application_port
+db_inbound_ports
+destination_ssh_key_path
+frontend_port
+prefix
+pubkeypath
+tags
+web_inbound_ports
