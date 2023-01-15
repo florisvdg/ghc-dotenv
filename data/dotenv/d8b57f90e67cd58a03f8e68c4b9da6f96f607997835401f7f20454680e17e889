@@ -1,0 +1,9 @@
+hasuraHost
+hasuraPassword
+jwt_secret
+port
+secretKey
+urlFrontEnd
+urlWebhookAlvo
+urlWebhookClient
+wppConnectHost

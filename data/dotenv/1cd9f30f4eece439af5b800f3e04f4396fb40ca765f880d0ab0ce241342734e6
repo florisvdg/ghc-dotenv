@@ -1,0 +1,9 @@
+NEWRELIC_VERSION
+NGINX_VERSION
+PHP_VERSION
+net_app_ip
+net_gateway
+net_monitoring_ip
+net_monitoring_port
+net_proxy_ip
+net_subnet
