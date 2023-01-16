@@ -1,0 +1,8 @@
+APP_ID
+APP_SECRET
+REDIRECT_URI
+access_token
+expiry_date
+refresh_token
+scope
+token_type
