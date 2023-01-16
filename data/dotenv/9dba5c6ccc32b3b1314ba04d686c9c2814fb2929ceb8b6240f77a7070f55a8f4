@@ -1,0 +1,4 @@
+JwtSecret
+NPM_CONFIG_PRODUCTION
+passwordMongoDB
+userMongoDB
