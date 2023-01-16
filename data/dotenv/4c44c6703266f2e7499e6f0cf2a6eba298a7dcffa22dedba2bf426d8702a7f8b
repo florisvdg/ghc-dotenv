@@ -1,0 +1,8 @@
+DATABASE_URL
+adminJwt
+loginUser
+mailLogin
+mailPassword
+passwordUser
+secret
+testJwt
