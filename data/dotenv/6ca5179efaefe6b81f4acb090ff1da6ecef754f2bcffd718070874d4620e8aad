@@ -1,0 +1,12 @@
+cert_service_base_url
+isMultiDCEnabled
+rc_entity
+registry_credential_service_base_url
+sunbird_cassandra_consistency_level
+sunbird_cassandra_host
+sunbird_cassandra_keyspace
+sunbird_cassandra_password
+sunbird_cassandra_port
+sunbird_cassandra_username
+sunbird_es_host
+sunbird_es_port

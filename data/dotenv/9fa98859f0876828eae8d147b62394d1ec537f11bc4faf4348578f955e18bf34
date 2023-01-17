@@ -1,0 +1,12 @@
+aws_storage_container
+aws_storage_key
+aws_storage_secret
+azure_storage_container
+azure_storage_key
+azure_storage_secret
+bind_hostname
+cloud_storage_type
+sunbird_cassandra_host
+sunbird_cassandra_password
+sunbird_cassandra_port
+sunbird_cassandra_username

@@ -1,0 +1,13 @@
+NODE_OPTIONS
+admin__password
+admin__username
+database
+isCluster
+redis__database
+redis__host
+redis__password
+redis__port
+redis__secondarydb
+redis__username
+secret
+url
