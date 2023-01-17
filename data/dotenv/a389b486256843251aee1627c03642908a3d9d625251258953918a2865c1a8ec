@@ -1,0 +1,8 @@
+PORT
+Private_Key
+SMTP_EMAIL
+SMTP_HOST
+SMTP_PORT
+SMTP_Password
+from_Name
+from_email
