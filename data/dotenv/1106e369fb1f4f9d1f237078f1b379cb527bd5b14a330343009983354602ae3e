@@ -1,0 +1,9 @@
+FIREBASE_KEY
+REDIS_PASSWORD
+REDIS_PORT
+REDIS_URL
+algorithm
+db
+db_pass
+host
+secret
