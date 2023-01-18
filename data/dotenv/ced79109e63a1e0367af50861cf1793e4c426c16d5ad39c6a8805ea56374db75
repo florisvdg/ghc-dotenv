@@ -1,0 +1,6 @@
+JWT_SECRET
+MONGO_URL
+NODE_ENV
+PORT
+dbPassWord
+dbUserName
