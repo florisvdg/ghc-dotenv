@@ -1,0 +1,9 @@
+gitea_db_port
+gitea_db_root_password
+gitea_password
+gitea_port
+semaphore_admin_password
+semaphore_db_password
+semaphore_db_port
+semaphore_db_user
+semaphore_port
