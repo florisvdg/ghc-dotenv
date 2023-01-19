@@ -1,0 +1,5 @@
+SESSION_SECRET
+mongo_srv
+smtp_host
+smtp_password
+smtp_username
