@@ -1,0 +1,8 @@
+_DB_HOST
+_DB_LANG
+_DB_NAME
+_DB_PASS
+_DB_USER
+_ENVIRONMENT
+_JwtSecret
+_MongoURI
