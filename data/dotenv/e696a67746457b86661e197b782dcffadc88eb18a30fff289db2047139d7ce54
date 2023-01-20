@@ -1,0 +1,7 @@
+SECRET_KEY
+dbname
+host
+password
+port
+sslmode
+user
