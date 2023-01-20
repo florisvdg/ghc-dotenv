@@ -1,0 +1,17 @@
+HOSTNAME
+JWT_SECRET_KEY
+PORT
+URL
+dbatlasurl
+dbhostname
+dbname
+dbusername
+eathEmail
+eathPass
+emailFrom
+emailTo
+password
+sendGridAPIKey
+tokenEmail
+tokenpass
+url
