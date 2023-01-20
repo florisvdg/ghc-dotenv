@@ -1,0 +1,14 @@
+ENV_FILE
+availabilityZones
+destinationCidrBlock
+gatewayName
+natNames
+routeTablePrivateNames
+routeTablePublicName
+subNetNatNames
+subNetPrivateCidrBlocks
+subNetPrivateNames
+subNetPublicCidrBlocks
+subNetPublicNames
+vpcCidrBlock
+vpcName
