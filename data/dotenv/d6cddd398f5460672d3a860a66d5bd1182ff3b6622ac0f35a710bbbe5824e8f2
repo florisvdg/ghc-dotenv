@@ -1,0 +1,9 @@
+feature_store_table_description
+feature_store_table_name
+feature_store_table_primary_keys
+inference_table_name
+labels_table_label_col
+labels_table_name
+predictions_table_name
+reference_table_label_col
+reference_table_name
