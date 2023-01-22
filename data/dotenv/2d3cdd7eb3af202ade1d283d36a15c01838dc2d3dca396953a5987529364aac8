@@ -1,0 +1,5 @@
+db_name
+db_password
+db_username
+frontend_server
+jwt_secret
