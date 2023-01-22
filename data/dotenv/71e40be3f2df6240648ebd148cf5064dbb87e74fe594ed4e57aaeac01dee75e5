@@ -1,0 +1,5 @@
+PORT
+authMail
+authPassword
+jwt_key
+mongoUrl

@@ -1,0 +1,6 @@
+business_service_port
+eureka_login
+eureka_password
+eureka_port
+eureka_url
+gateway_service_port
