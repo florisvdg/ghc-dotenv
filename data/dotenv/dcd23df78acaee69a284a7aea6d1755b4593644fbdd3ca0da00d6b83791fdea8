@@ -1,0 +1,16 @@
+JAVA_HOME
+JENKINS_HOME
+agent_port
+alias
+app_base
+app_cert
+app_data
+app_home
+app_name
+docker_port
+http_port
+network
+volume_cert
+volume_data
+volume_home
+work_dir
