@@ -1,0 +1,9 @@
+cluster_context
+environment_name
+environment_overlay
+github_username
+gloo_mesh_version
+license_key
+mgmt_context
+repo_name
+target_branch
