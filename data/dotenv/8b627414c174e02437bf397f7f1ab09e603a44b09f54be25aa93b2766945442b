@@ -1,0 +1,13 @@
+baseUrl
+bearerToken
+cloudinaryKey
+cloudinaryName
+cloudinarySecret
+dbUri
+emailToken
+environment
+port
+saltRound
+senderEmail
+senderPass
+signatureToken
