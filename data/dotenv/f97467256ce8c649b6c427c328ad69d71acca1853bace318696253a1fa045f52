@@ -1,0 +1,10 @@
+databaseHost
+databaseName
+databasePassword
+databasePort
+databaseUser
+gerencianetCertificadoCRT
+gerencianetCertificadoKEY
+gerencianetClientID
+gerencianetClientSecret
+gerencianetURL
