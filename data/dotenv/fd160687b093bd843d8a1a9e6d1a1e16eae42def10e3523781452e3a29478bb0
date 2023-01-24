@@ -1,0 +1,13 @@
+command
+dependency_failure_action
+depends
+max_restart_delay
+periodic_interval
+probe
+reload_signal
+restart
+restart_retries
+service_name
+stop_signal
+success_exit
+system_packages
