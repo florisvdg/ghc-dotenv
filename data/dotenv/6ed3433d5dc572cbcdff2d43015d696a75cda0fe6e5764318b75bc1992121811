@@ -1,0 +1,5 @@
+baseURL
+keyId
+signingKeyFile
+tlsCertificateFile
+tlsKeyFile
