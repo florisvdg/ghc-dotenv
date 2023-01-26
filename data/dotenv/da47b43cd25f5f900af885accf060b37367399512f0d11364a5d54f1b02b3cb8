@@ -1,0 +1,5 @@
+DB_host
+DB_name
+DB_password
+DB_user
+SECRET_KEY
