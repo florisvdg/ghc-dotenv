@@ -1,0 +1,15 @@
+API_SECRET
+DB_DRIVER
+DB_HOST
+DB_NAME
+DB_PASSWORD
+DB_PORT
+DB_USER
+HTTP_PORT
+TestApiSecret
+TestDbDriver
+TestDbHost
+TestDbName
+TestDbPassword
+TestDbPort
+TestDbUser
