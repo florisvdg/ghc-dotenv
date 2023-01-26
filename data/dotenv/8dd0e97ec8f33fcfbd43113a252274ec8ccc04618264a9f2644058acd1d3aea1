@@ -1,0 +1,12 @@
+VUE_APP_API_URI
+VUE_APP_KEYCLOAK_JSON_FILENAME
+db_host
+db_name
+db_password
+db_port
+db_synchronize
+db_type
+db_username
+environment
+kc_authServerUrl
+kc_resource
