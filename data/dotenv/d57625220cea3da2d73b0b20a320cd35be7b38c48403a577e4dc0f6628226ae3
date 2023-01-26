@@ -1,0 +1,8 @@
+DB_HOSTNAME
+DB_NAME
+DB_PASSWORD
+DB_PORT
+DB_USERNAME
+NEXT_PUBLIC_BASE_URL
+secret_refresh_token
+secret_token
