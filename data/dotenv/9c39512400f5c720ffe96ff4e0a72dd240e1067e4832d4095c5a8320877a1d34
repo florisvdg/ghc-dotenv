@@ -1,0 +1,15 @@
+HOSTNAME
+JWT_SECRET_KEY
+PORT
+dbatlasurl
+dbhostname
+dbname
+dbusername
+eathEmail
+eathPass
+emailFrom
+emailTo
+password
+tokenEmail
+tokenpass
+url
