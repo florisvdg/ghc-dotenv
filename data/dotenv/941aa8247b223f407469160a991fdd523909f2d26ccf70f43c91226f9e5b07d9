@@ -1,0 +1,4 @@
+AWSConfig__AccessKeyId
+AWSConfig__AccessKeySecret
+AWSConfig__Region
+ApiConfig__SetCorsHeaders
