@@ -1,0 +1,6 @@
+GCLOUD_PROJECT_ID
+GCLOUD_STORAGE_BUCKET_URL
+client_email
+jwtSecret
+mongoURI
+private_key
