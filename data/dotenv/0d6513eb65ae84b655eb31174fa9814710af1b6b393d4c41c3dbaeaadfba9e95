@@ -1,0 +1,5 @@
+BIN_SH
+DUALCASE
+lt_option_debug
+relink_command
+sed_quote_subst
