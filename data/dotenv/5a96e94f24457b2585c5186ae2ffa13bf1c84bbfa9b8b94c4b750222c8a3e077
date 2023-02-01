@@ -1,0 +1,6 @@
+email_host
+email_password
+email_port
+email_user
+mongo
+redis
