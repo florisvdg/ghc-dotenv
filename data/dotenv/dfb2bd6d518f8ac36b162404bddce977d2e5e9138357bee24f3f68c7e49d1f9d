@@ -1,0 +1,5 @@
+DB_Password
+DB_User
+JWT_SECRET
+MONGO_DB
+PORT
