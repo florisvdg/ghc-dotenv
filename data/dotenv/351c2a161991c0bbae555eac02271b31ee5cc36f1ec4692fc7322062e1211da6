@@ -1,0 +1,14 @@
+FONTAWESOME_NPM_AUTH_TOKEN
+sops_kms__list_0__map_arn
+sops_kms__list_0__map_aws_profile
+sops_kms__list_0__map_created_at
+sops_kms__list_0__map_enc
+sops_kms__list_1__map_arn
+sops_kms__list_1__map_aws_profile
+sops_kms__list_1__map_created_at
+sops_kms__list_1__map_enc
+sops_kms__list_1__map_role
+sops_lastmodified
+sops_mac
+sops_unencrypted_suffix
+sops_version
