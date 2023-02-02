@@ -1,0 +1,5 @@
+bootcmd
+fdt_addr_r
+fdtfile
+mmcargs
+mmcdev
