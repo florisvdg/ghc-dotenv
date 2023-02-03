@@ -1,0 +1,17 @@
+OUD_INSTANCE_NAME
+adminPassword
+adminUID
+baseDN
+bindDN1
+bindDN2
+bindPassword1
+bindPassword2
+dsreplication_1
+dsreplication_2
+dsreplication_3
+dsreplication_4
+hostname
+instanceType
+rootUserDN
+rootUserPassword
+sourceHost
