@@ -1,0 +1,4 @@
+JWT_TOKEN
+PORT
+SECRET_PASSWORD
+mongodb_url
