@@ -1,0 +1,5 @@
+apm_secret_token
+apm_server_url
+cloud_auth
+cloud_id
+elasticsearch_host
