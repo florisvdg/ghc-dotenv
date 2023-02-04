@@ -1,0 +1,11 @@
+DB_HOST
+DB_PORT
+DB_PW
+DB_SCHEMA
+DB_USER
+accessToken
+getAccess
+key
+refreshToken
+svName
+test
