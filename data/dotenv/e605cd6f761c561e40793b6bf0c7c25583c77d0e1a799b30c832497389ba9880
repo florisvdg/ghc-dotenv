@@ -1,0 +1,17 @@
+app_debug
+app_trace
+auth
+database
+debug
+environment
+host
+hostname
+multiple
+password
+port
+prefix
+site_name
+system_type
+user
+username
+virtualHost
