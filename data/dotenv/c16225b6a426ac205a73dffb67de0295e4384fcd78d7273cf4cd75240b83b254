@@ -1,0 +1,15 @@
+BearerKey
+DBURi
+SALTROUND
+TOKENSIGNATURE
+api_key
+api_secret
+cloud_name
+confirmEmailToken
+host
+nodemailerEmail
+noemailerPassword
+protocol
+senderEmail
+senderEmailPassword
+sessionKey
