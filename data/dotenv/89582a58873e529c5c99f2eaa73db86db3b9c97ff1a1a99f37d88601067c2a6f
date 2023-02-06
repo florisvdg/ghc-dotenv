@@ -1,0 +1,11 @@
+DB_HOST
+DB_NAME
+DB_PORT
+DB_PWD
+DB_USER
+email_recepients
+email_sender_account
+email_sender_password
+email_sender_username
+email_smtp_port
+email_smtp_server
