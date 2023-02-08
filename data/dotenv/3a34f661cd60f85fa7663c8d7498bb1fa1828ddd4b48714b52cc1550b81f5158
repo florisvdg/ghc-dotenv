@@ -1,0 +1,8 @@
+AuthUserApi
+CollectionApi
+CollectionCommitApi
+HubApi
+RegisterDidPinApi
+RestoreKeyApi
+SignUpUserApi
+resolver_endpoint
