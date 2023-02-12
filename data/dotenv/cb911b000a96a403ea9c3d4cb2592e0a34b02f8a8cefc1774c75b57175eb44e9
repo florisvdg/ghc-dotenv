@@ -1,0 +1,12 @@
+CONFIG_PATH
+DB_HOST
+DB_NAME
+DB_PASSWORD
+DB_USER
+FILE_NAME
+LOGGER_NAME
+LOG_FILE_PATH
+URL
+ftp_password
+ftp_server_address
+ftp_username
