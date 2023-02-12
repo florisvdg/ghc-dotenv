@@ -1,0 +1,12 @@
+bootcmd
+console_args
+dhcp_ip
+dhcpboot
+filename
+flash_type
+flashboot
+loadaddr
+loadkernel
+sdram_type
+tftpboot
+update

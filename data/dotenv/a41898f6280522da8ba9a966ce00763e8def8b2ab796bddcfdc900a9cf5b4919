@@ -1,0 +1,7 @@
+console_args
+filename
+flashboot
+loadaddr
+loadkernel
+tftpboot
+update
