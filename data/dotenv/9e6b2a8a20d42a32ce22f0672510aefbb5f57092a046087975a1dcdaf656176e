@@ -1,0 +1,4 @@
+CORES_COUNT
+TF_VAR_core_instance_count
+TF_VAR_worker_instance_count
+WORKERS_COUNT
