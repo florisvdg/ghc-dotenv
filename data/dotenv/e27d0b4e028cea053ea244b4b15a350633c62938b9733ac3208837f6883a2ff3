@@ -1,0 +1,12 @@
+artifactRepositoryAccessKeySecretKey
+artifactRepositoryAccessKeySecretName
+artifactRepositoryBucket
+artifactRepositoryEndpoint
+artifactRepositoryInsecure
+artifactRepositoryKeyPrefix
+artifactRepositorySecretKeySecretKey
+artifactRepositorySecretKeySecretName
+clusterDomain
+containerRuntimeExecutor
+executorImage
+namespace
