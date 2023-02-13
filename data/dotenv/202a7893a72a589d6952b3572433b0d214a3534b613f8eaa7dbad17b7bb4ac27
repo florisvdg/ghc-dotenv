@@ -1,0 +1,12 @@
+BUSINESS_NAME
+DB_NAME
+DB_PASS
+DB_USER
+REDIRECT_URL
+TABLE_NAME
+UAM_SECRET
+domain
+email
+mysql_dir
+mysql_root_pass
+radius_db_pass
