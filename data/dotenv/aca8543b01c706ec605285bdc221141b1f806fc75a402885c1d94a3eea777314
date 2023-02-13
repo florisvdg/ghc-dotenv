@@ -1,0 +1,6 @@
+JWT_SECRET
+databaseHost
+databaseName
+databasePassword
+databasePort
+databaseUser
