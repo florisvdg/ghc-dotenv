@@ -1,0 +1,14 @@
+API_PORT
+DB_PASS
+DB_USER
+EntityID
+HOST
+MYSQL_DB
+apiUrl
+aws_region
+paymentId
+paymentSecreat
+secrete
+senderId
+smsId
+smsPassword
