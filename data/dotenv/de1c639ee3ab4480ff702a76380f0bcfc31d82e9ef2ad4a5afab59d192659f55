@@ -1,0 +1,10 @@
+azure_token
+azure_username
+download_path
+feed_name
+feed_source_url
+migration_type
+nexus_url
+package_type
+repository_name
+upload_limit_size_in_mb
