@@ -1,0 +1,5 @@
+DATABASE_URL
+NEXTAUTH_URL
+NEXT_PUBLIC_SECRET
+key_id
+key_secret
