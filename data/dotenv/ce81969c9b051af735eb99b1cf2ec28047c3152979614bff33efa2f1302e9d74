@@ -1,0 +1,4 @@
+cluster_context
+environment_name
+gloo_mesh_version
+mgmt_context
