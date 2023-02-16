@@ -1,0 +1,9 @@
+auth0ClientId
+auth0ClientSecret
+auth0Domain
+auth0GrantId
+auth0PrimaryAudience
+authentication_container_address
+environment
+mongo_db_atlas_pword
+mongo_db_atlas_uname

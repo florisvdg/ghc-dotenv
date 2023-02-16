@@ -1,0 +1,7 @@
+app_secret_key
+authentication_container_address
+aws_region
+create_site_lambda_function_name
+environment
+mongo_db_atlas_pword
+mongo_db_atlas_uname
