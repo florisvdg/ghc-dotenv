@@ -1,0 +1,5 @@
+chain_prikey
+rpc_ganache
+rpc_goerli
+ws_ganache
+ws_goerli
