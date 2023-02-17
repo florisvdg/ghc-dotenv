@@ -1,0 +1,5 @@
+ACCESS_TOKEN_EXPIRE_MINUTES
+ALGORITHM
+SECRET_KEY
+database_url
+database_url_test
