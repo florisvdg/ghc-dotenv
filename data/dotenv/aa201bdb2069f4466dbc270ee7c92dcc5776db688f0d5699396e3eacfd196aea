@@ -1,0 +1,6 @@
+FROM_EMAIL
+MONGO_URI
+SECRETKEY
+accessKeyId
+region
+secretAccessKey
