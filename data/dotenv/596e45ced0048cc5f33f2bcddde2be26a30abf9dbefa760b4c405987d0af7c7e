@@ -1,0 +1,12 @@
+BOT_TOKEN
+SECRET_KEY
+db_host
+db_name
+db_password
+db_password_bot
+db_user
+db_user_bot
+form_folder
+is_test
+port
+static_folder
