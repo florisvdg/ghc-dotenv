@@ -1,0 +1,6 @@
+DBHost
+DBName
+DBPassword
+DBPort
+DBUser
+JWT_SECRET_KEY
