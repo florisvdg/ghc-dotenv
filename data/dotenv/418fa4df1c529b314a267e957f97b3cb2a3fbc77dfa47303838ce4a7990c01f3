@@ -1,0 +1,4 @@
+db_uri
+jwt_secret
+public_url
+session_secret
