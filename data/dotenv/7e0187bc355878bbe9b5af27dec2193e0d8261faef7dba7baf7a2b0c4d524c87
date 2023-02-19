@@ -1,0 +1,8 @@
+ADMIN_SECRET_KEY
+AES_KEY
+Admin_Mail
+Admin_Pass
+Cluster_URL
+MONGO_URL
+PORT
+SECRET_KEY
