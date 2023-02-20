@@ -1,0 +1,9 @@
+coordinates_file_path
+debug_flag
+dump
+face_database_path
+face_detection_model_path
+face_reidentification_model_path
+group_images_directory
+input_directory_path
+landmark_regression_model_path
