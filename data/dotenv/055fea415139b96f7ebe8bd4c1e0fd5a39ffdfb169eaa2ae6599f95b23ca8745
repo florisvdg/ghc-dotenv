@@ -1,0 +1,14 @@
+SPR_REQUEST_URL
+_JAVA_OPTIONS
+client_info
+colvir_rest_service_app_id
+colvir_rest_service_url
+colvir_rest_service_user
+kompra_data
+logging_config
+offline_service_url
+sb_report
+spring_datasource_password
+spring_datasource_url
+spring_datasource_username
+spring_profiles_active
