@@ -1,0 +1,7 @@
+PORT
+SECRET_KEY
+dbName
+dbPort
+dbPwd
+dbUser
+dbhost
