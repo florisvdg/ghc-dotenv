@@ -1,0 +1,4 @@
+JWT_SECRET
+Mongo_URL
+Nodemailer_Email
+Nodemailer_Password
