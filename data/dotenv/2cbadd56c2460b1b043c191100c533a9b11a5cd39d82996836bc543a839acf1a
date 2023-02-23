@@ -1,0 +1,4 @@
+PORT
+jwt_secret
+mongo_url
+stripe_key
