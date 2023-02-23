@@ -1,0 +1,9 @@
+VITE_auth0_clientId
+VITE_auth0_customdomain
+VITE_auth0_domain
+VITE_auth0_redirectUri
+VITE_firebase_apiKey
+VITE_firebase_databaseUrl
+VITE_firebase_projectId
+VITE_tutors_store_id
+VITE_tutors_store_secret
