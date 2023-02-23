@@ -1,0 +1,12 @@
+api_url
+app_debug
+base_url
+database
+env_status
+host
+hostname
+login_expiration
+password
+port
+prefix
+username
