@@ -1,0 +1,17 @@
+db_host
+db_pass
+db_port
+db_user
+rps_credential_type
+rps_debug
+rps_ida_app_id
+rps_ida_client_id
+rps_ida_secret_key
+rps_idrepo_modulo
+rps_partner_id
+rps_regproc_app_id
+rps_regproc_client_id
+rps_regproc_secret_key
+rps_server
+rps_ssl_verify
+rps_time_filter_in_seconds
