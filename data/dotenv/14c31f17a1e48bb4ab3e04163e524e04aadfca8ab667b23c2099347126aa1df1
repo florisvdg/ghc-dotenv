@@ -1,0 +1,6 @@
+ConfigurationApiKey
+ConfigurationApiUrl
+GatewayUrl
+LOCAL_HOST
+PROD_HOST
+RabbitMQSetting
