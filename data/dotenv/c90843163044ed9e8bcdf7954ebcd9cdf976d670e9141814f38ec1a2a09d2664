@@ -1,0 +1,3 @@
+error_reporting
+log_errors_max_len
+memory_limit
