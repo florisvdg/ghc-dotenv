@@ -1,0 +1,14 @@
+DB_PASSWORD_FOR_KOANRK123456
+DB_URL
+EMAIL_ID
+EMAIL_PASSWORD
+JWT_ACCOUNT_ACTIVATION_SECRET
+JWT_RESET_PASSWORD_SECRET
+JWT_SECRET
+PORT
+SESSION_SECRET
+client_email
+event_spreadsheet_id
+magazineRecieverSheet
+magazineRecievers_spreadsheet_id
+private_key
