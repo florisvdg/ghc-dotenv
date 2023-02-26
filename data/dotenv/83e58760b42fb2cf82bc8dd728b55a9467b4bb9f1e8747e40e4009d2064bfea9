@@ -1,0 +1,7 @@
+BASE_URL
+CONSUMER_KEY
+CONSUMER_SECRET
+access_token_url
+authorize_url
+renew_access_token_url
+request_token_url
