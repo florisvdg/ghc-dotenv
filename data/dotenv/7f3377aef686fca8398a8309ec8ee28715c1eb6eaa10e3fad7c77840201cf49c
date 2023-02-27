@@ -1,0 +1,6 @@
+KUBECONFIG
+TF_STATE_BUCKET
+TF_VAR_firewall_allow_external_source_ranges
+TF_VAR_project
+TF_VAR_region
+TF_VAR_zone
