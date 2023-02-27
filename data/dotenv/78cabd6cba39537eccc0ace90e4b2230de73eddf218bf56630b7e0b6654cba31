@@ -1,0 +1,6 @@
+MONGO_CONNECTION_URI
+adminEmail
+adminPassword
+appPassword
+port
+sessionKey
