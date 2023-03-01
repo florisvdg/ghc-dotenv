@@ -1,0 +1,12 @@
+BACKBLAZE_accessKeyId
+BACKBLAZE_endpoint
+BACKBLAZE_secretAccessKey
+BACKBLAZE_url
+BUCKET_I18N
+DOGECLOUD_accessKey
+DOGECLOUD_secretKey
+DOGECLOUD_url
+R2_accessKeyId
+R2_endpoint
+R2_secretAccessKey
+R2_url
