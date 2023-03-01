@@ -1,0 +1,7 @@
+WORKSPACE_ID
+cloudant_password
+cloudant_username
+conversation_password
+conversation_username
+feedbackDB
+userDB
