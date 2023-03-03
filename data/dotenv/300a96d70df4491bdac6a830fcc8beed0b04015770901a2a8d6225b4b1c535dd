@@ -1,0 +1,5 @@
+DB_CONNECTION_URL
+JWT_SECRET
+MIGRATE_DB_CONNECTION_URL
+client_id
+client_secret
