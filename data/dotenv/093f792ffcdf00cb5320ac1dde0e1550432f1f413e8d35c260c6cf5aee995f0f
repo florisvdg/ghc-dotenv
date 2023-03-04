@@ -1,0 +1,7 @@
+DATABASE
+PORT
+Publishable_Key
+Secret_Key
+TWILIO_ACCOUNT_SID
+TWILIO_AUTH_TOKEN
+phoneNumber
