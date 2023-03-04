@@ -1,0 +1,6 @@
+DBURL
+PORT
+bearerKey
+encKey
+saltRound
+tokenSignature
