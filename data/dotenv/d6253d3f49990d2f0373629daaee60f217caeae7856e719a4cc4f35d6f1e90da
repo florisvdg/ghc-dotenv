@@ -1,0 +1,6 @@
+CI_ENVIRONMENT
+ClientID
+ClientSecret
+altLogin
+recaptchaSecretKey
+recaptchaSiteKey
