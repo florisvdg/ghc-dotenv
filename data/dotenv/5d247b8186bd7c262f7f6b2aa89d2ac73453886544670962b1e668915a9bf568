@@ -1,0 +1,16 @@
+BASE_THEME
+NOTE_ICON_DEFAULT
+NOTE_ICON_FILETREE
+NOTE_ICON_INTERNAL_LINKS
+NOTE_ICON_TITLE
+SITE_BASE_URL
+SITE_NAME_HEADER
+THEME
+dgEnableSearch
+dgHomeLink
+dgPassFrontmatter
+dgShowBacklinks
+dgShowFileTree
+dgShowInlineTitle
+dgShowLocalGraph
+dgShowToc
