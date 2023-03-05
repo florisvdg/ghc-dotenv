@@ -1,0 +1,3 @@
+local_network_cidr
+local_network_gateway
+local_network_pihole
