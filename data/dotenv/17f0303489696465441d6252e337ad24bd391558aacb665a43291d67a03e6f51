@@ -1,0 +1,6 @@
+AWSAccessKeyId
+AWSBucket
+AWSSecretKey
+JWT_SECRET
+MONGODB_URL
+PORT
