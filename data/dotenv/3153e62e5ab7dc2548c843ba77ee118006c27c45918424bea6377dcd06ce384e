@@ -1,0 +1,9 @@
+BACKEND_PORT
+apiKey
+appId
+authDomain
+databaseURL
+measurementId
+messagingSenderId
+projectId
+storageBucket
