@@ -1,0 +1,9 @@
+EMAIL_ACCOUNT
+EMAIL_PASSWORD
+MONGODBURL
+MYSQL_HOST
+MYSQL_USER
+accountSid
+authToken
+secret
+tokenkey
