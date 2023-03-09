@@ -1,0 +1,4 @@
+db_uri
+jwt_secret
+mail_password
+mail_username
