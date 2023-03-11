@@ -1,0 +1,7 @@
+account_number
+aws_region
+az_count
+core_stack_name
+enable_nat_gw
+namespaces
+vpc_cidr
