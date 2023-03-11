@@ -1,0 +1,5 @@
+postgresDb
+postgresPassword
+postgresUser
+psqlHost
+psqlPort
