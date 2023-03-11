@@ -1,0 +1,5 @@
+JWT_KEY
+PORT
+ROUND
+Stripe_Secret_Key
+mongo_url
