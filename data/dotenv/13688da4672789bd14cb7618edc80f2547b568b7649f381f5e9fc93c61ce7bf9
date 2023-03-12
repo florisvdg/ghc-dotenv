@@ -1,0 +1,10 @@
+ALERT_NUMBER
+API_KEY
+API_SECRET
+NODE_ENV
+dbId
+dbPSW
+jwtPassword
+jwt_Cookies_Expires_in
+jwt_Expires_in
+port
