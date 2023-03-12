@@ -1,0 +1,8 @@
+dbname
+dbuser
+es_host
+host
+password
+port
+redis_host
+redis_port
