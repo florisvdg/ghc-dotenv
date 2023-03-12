@@ -1,0 +1,5 @@
+callback_url
+cognito_client_id
+cognito_client_secret
+logout_url
+website_domain
