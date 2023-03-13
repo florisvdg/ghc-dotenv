@@ -1,0 +1,5 @@
+EMAIL_HOST
+HOST_NAME
+SECRET_KEY
+auth_password
+auth_user
