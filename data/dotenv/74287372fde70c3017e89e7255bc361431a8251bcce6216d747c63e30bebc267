@@ -1,0 +1,5 @@
+NUMO_HTTP_PORT
+NUMO_WS_PORT
+numoAccessUrlBase
+numoFuncURL
+numoTxnUrl
