@@ -1,0 +1,7 @@
+ACCESSTOKENKEY
+Jwt_Secret
+MONGO_URI
+NEXTAUTH_SECRET
+NEXTAUTH_URL
+domain
+sessionDbSecret
