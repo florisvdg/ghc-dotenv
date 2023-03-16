@@ -1,0 +1,6 @@
+LOG4PERL_CONFIG_FILE
+MOJO_DB_DEBUG
+MOJO_DB__bravo__password
+MOJO_DB__bravo__username
+MOJO_MODE
+MOJO_TEST_EXIT
