@@ -1,0 +1,4 @@
+mariadb_connection
+mariadb_password
+mariadb_user
+rabbitmq_uri
