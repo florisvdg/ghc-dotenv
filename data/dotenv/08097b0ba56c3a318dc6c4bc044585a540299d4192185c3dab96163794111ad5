@@ -1,0 +1,13 @@
+ALLOW_ORIGIN
+DATABASE_URL
+ENV
+JWT_SECRET
+PORT
+POSTGRES_DB
+POSTGRES_USER
+SKIP_PREFLIGHT_CHECK
+callbackURL
+clientID
+clientSecret
+cloudinaryKey
+cloudinaryName
