@@ -1,0 +1,10 @@
+src_db
+src_host
+src_password
+src_port
+src_user
+tgt_db
+tgt_host
+tgt_password
+tgt_port
+tgt_user
