@@ -1,0 +1,5 @@
+MONGODB_IP
+MONGODB_PORT
+MONGODB_VERSION
+MONGODB_root_password
+MONGODB_root_username
