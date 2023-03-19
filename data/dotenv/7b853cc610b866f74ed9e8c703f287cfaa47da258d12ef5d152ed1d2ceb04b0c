@@ -1,0 +1,6 @@
+PORT
+secret_key
+tt_db_dbname
+tt_db_host
+tt_db_password
+tt_db_user
