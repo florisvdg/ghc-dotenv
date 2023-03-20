@@ -1,0 +1,10 @@
+BASEURL
+DBURI
+MODE
+SaltRound
+emailToken
+encryptScretKey
+loginToken
+port
+senderEmail
+senderEmailPassword
