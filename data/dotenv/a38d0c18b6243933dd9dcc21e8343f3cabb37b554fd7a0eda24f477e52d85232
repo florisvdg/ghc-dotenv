@@ -1,0 +1,9 @@
+COOKIE_EXPIRE
+DB_URI
+DEBUG_MODE
+JWT_EXP
+JWT_SECRET
+PORT
+accountSid
+authToken
+messageNum
