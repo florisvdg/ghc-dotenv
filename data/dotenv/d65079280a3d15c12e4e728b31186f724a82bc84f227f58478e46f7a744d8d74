@@ -1,0 +1,14 @@
+NODE_ENV
+PORT
+aws_accessKey
+aws_bucketName
+aws_endpointUrl
+aws_endpointUrlPhotoUser
+aws_region
+aws_secretKey
+db_host
+db_name
+db_pass
+db_port
+db_user
+secretKey
