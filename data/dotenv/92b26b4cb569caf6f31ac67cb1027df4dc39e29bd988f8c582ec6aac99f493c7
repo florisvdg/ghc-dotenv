@@ -1,0 +1,6 @@
+JWT_KEY
+MONGODB_URI
+PORT
+api_key
+api_secret
+cloud_name
