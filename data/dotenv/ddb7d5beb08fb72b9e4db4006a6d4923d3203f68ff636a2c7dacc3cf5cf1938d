@@ -1,0 +1,8 @@
+boot_targets
+fdt_addr
+fdt_high
+initrd_high
+kernel_addr_r
+pxefile_addr_r
+ramdisk_addr_r
+scriptaddr
