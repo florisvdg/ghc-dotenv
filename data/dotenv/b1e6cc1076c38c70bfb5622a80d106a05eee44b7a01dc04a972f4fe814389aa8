@@ -1,0 +1,11 @@
+AWS_ACCESS_KEY_ID
+AWS_REGION
+AWS_SECRET_ACCESS_KEY
+AWS_SESSION_TOKEN
+NODE_ENV
+aws_group_members_table_name
+aws_items_table_name
+backendIPAddress
+client_id
+client_secret
+frontendIPAddress
