@@ -1,0 +1,7 @@
+admin_service_account
+finished_pod_expiration_in_days
+ldap_group
+pipelines_k8s_service_accounts
+secret_dst_namespace
+shadow_account_project
+workload_identity_namespace

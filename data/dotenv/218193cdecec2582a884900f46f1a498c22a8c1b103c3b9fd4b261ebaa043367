@@ -1,0 +1,7 @@
+application_secret
+client_id
+namespace
+oidc_auth_url
+oidc_provider
+oidc_redirect_uri
+skip_auth_uri
