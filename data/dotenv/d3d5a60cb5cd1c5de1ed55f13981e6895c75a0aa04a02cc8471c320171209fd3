@@ -1,0 +1,8 @@
+JWT_SECRET
+SERVER_PORT
+database
+host
+password
+port
+sslmode
+user
