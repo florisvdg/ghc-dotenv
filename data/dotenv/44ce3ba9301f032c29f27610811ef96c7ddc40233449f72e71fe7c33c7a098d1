@@ -1,0 +1,12 @@
+B2_KEY
+B2_SECRET
+DATABASE_URL
+FLASK_APP
+FLASK_DEBUG
+FLASK_ENV
+SCHEMA
+SECRET_KEY
+account_id
+api_url
+bucketId
+bucket_name
