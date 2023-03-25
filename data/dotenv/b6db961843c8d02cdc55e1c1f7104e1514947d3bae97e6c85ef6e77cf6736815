@@ -1,0 +1,7 @@
+ENV
+MAIN_WEBSITE_URL
+MONGO_CONNECTION_STRING
+PORT
+jwtSecretKey
+retryWrites
+tokenValidity
