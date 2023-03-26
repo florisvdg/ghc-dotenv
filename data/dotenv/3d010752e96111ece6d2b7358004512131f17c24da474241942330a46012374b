@@ -1,0 +1,8 @@
+DBconnection
+TokenStart
+bcryptjs
+port
+salt
+stripe_secret
+tokenSecret
+webhook_secret
