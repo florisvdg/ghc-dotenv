@@ -1,0 +1,12 @@
+Fawry_Merchant_Code
+Fawry_Security_Key
+PORT
+api
+db_name
+db_password
+db_port
+db_url
+db_username
+gh_api_key
+google_client_id
+jwt_secret
