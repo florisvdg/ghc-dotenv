@@ -1,0 +1,17 @@
+APP_ENV
+APP_SECRET
+CORS_ALLOW_ORIGIN
+MAILER_DSN
+MAILER_DSN_PORT
+MAILER_FROM_USER
+MESSENGER_TRANSPORT_DSN
+NGINX_PORT
+RABBITMQ_HOST
+RABBITMQ_PASS
+RABBITMQ_PORT
+RABBITMQ_USER
+historical_base_url
+historical_data_link
+symbols_list_link
+x_rapid_api_host
+x_rapid_api_key
