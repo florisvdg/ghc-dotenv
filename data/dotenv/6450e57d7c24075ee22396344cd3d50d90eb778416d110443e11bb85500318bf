@@ -1,0 +1,5 @@
+jwtSecret
+jwtToken
+mongo_url
+port
+redisPassword
