@@ -1,0 +1,6 @@
+Email_Host
+Email_Password
+Email_User
+Frontend_URL
+JWT_SECRET
+Mongo_URI
