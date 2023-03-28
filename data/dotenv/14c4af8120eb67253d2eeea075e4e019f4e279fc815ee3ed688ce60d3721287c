@@ -1,0 +1,12 @@
+Client_ID
+Client_secret
+DBconnection
+TokenStart
+bcryptjs
+port
+salt
+senderEmail
+senderKey
+stripe_secret
+tokenSecret
+webhook_secret
