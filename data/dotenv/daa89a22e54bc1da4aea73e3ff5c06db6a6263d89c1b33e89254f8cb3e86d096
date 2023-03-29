@@ -1,0 +1,12 @@
+APSCHEDULER_AUTOSTART
+APSCHEDULER_CONFIG
+COMMAND_START
+ENVIRONMENT
+gpt3_chat_count_per_day
+gpt3_command_prefix
+gpt3_image_limit
+gpt3_image_render
+gpt3_max_tokens
+gpt3_model
+gpt3_need_at
+gpt3_proxy
