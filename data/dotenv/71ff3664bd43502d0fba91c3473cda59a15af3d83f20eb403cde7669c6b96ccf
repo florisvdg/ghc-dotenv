@@ -1,0 +1,6 @@
+JWT_SECRET
+MONGO_URL
+PORT
+accountSid
+authToken
+mapbox_accessToken
