@@ -1,0 +1,9 @@
+PORT
+client_id
+client_secret
+mongoURL
+privateKey
+redisClientHost
+redisClientHostlink
+redisClientPassword
+rprivateKey
