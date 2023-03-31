@@ -1,0 +1,6 @@
+Base_URL
+MONGO_URI
+PORT
+api_key
+api_secret
+cloud_name
