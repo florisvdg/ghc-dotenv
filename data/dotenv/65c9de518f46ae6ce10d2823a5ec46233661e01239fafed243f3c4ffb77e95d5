@@ -1,0 +1,11 @@
+cookieExpireTime
+fromEmail
+jwtExpireTime
+jwtSecret
+localUri
+port
+senderName
+smptEmail
+smtpPassword
+smtpPort
+sptmHost
