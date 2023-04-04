@@ -1,0 +1,13 @@
+aws_region
+fb_60_days_token
+fb_app_id
+fb_app_secret
+fb_token
+snowflake_account
+snowflake_database
+snowflake_host
+snowflake_region
+snowflake_schema
+snowflake_table
+snowflake_user
+snowflake_warehouse
