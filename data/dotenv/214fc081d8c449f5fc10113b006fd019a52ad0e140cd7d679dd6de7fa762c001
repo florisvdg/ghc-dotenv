@@ -1,0 +1,4 @@
+boot_rprocs
+boot_rprocs_mmc
+dorprocboot
+rproc_load_and_boot_one

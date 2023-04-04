@@ -1,0 +1,7 @@
+args_ufs
+get_fdt_ufs
+get_kern_ufs
+get_overlay_ufs
+init_ufs
+scsirootfstype
+ufs_finduuid

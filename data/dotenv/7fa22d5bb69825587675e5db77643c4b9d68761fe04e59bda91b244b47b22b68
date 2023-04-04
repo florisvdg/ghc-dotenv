@@ -1,0 +1,6 @@
+mtdids
+mtdparts
+nandargs
+nandboot
+nandroot
+nandrootfstype
