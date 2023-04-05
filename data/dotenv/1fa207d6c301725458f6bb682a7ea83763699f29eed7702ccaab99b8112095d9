@@ -1,0 +1,6 @@
+DEBUG
+EMAIL_HOST_PASSWORD
+EMAIL_HOST_USER
+SECRET_KEY
+account_sid
+auth_token
