@@ -1,0 +1,15 @@
+Client_ID
+Client_secret
+DBconnection
+TokenStart
+bcryptjs
+merchantId
+port
+privateKey
+publicKey
+salt
+senderEmail
+senderKey
+stripe_secret
+tokenSecret
+webhook_secret
