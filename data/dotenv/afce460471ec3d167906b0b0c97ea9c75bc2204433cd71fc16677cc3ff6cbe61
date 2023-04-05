@@ -1,0 +1,6 @@
+DB_STRING
+PORT
+allowed_origins
+cookie_secret
+secret
+session_secret
