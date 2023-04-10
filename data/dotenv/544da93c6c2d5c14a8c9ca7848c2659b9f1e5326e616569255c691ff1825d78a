@@ -1,0 +1,5 @@
+mongo_secret_name
+mongo_secret_version
+project_secret_id
+redis_secret_name
+redis_secret_version
