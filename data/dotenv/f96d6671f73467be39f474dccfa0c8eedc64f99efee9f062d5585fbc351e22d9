@@ -1,0 +1,17 @@
+docker_build_name
+docker_build_version
+mysql_container_name
+mysql_default_local_db_path
+mysql_default_path
+mysql_default_root_password
+mysql_restart_policy
+mysql_run_port
+posix_backup_dest_path
+postgres_container_name
+postgres_default_local_db_path
+postgres_default_root_password
+postgres_restart_policy
+postgres_run_port
+pull_mysql_image_version
+pull_postgres_image_version
+static_path

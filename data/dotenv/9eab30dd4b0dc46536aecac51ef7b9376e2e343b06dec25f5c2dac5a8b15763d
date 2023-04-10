@@ -1,0 +1,12 @@
+answer_timeout
+command_prefix
+discord_token
+faucet_address
+greylist_duration
+logging_level
+low_balance_alert
+max_rewards_amount
+rpc_timeout
+rpc_url
+token_amount
+token_id
