@@ -1,8 +1,8 @@
 name: Search Dotenv
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '1/15 * * * *'
+#  schedule:
+#    - cron: '1/15 * * * *'
 
 jobs:
   run:
