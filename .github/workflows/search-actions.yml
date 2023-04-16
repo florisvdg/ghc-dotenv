@@ -1,8 +1,8 @@
 name: Search Actions YAML
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '10/15 * * * *'
+#  schedule:
+#    - cron: '10/15 * * * *'
 
 jobs:
   run:
